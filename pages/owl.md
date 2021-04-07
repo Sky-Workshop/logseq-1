@@ -3,5 +3,5 @@ title: OWL
 ---
 
 ## Restrictions
-### Some (SomeValueFrom)
+### Some (SomeValueFrom) hasPet some Dog
 ###
