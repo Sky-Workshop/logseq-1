@@ -3,4 +3,5 @@ title: Zorg
 ---
 
 ## Ontologieen
-##
+## Seminars
+###
