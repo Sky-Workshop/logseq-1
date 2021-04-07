@@ -13,4 +13,3 @@ title: Presentatie RIONED
 ### Protege is niet RDF by design
 ### Composer (ook Eclipse) ook niet maar gebruikt RDF bestanden voor opslag
 ## [[RDF Tooling]]
-##
