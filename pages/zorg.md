@@ -2,7 +2,7 @@
 title: Zorg
 ---
 
-## KIK-V]]
+## [[KIK-V]]
 ## Ontologieen
 ## Seminars
 ### https://zorginformatiearchitectuur.nl/2021/
