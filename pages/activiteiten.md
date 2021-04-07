@@ -7,5 +7,9 @@ title: Activiteiten
 ## Beschrijf hoe [[SHACL]] gebruikt zou kunnen worden binnen [[KIK-V]] [[TODO]]
 ## TODO:
 ### taak 1
-##
+## TODO
+:PROPERTIES:
+:todo: 1617807632597
+:END:
+###
 ##
