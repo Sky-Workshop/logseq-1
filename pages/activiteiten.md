@@ -18,8 +18,9 @@ title: Activiteiten
 :PROPERTIES:
 :doing: 1617807749175
 :END:
-## DOING review [[KIK-V]] ontologie
+## DONE review [[KIK-V]] ontologie
 :PROPERTIES:
 :doing: 1617807772721
+:done: 1617809247854
 :END:
 ##
