@@ -4,7 +4,7 @@ title: RIONED
 
 ## RIONED is een stichting welke tot doel heeft
 ## Stichting RIONED wil komen tot:
-Eenduidige uitwisseling van kwalitatief goede data ten behoeve van beheer, investeringen en dienstverlening.
+- Eenduidige uitwisseling van kwalitatief goede data ten behoeve van beheer, investeringen en dienstverlening.
 Vanuit samenwerking met overheden en bedrijven
 Stabiele open standaard met certificering (borging kwaliteit)
 Toepassingsgericht, met gevoel van eigenaarschap
