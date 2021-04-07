@@ -2,5 +2,8 @@
 title: SHACL
 ---
 
-## Todo add essential shacl statements
+## TODO add essential shacl statements
+:PROPERTIES:
+:todo: 1617812342155
+:END:
 ##
