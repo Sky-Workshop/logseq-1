@@ -3,4 +3,5 @@ title: OWL
 ---
 
 ## Restrictions
-### SomeValueFrom
+### Som (SomeValueFrom)
+###
