@@ -6,7 +6,7 @@ title: Activiteiten
 :PROPERTIES:
 :todo: 1617809188799
 :END:
-## Initiele feedback [[VPH ontologie feedback]] [[DONE]]
+## Initiele feedback [[VPH ontologie feedback]]
 ## Beschrijf hoe [[SHACL]] gebruikt zou kunnen worden binnen [[KIK-V]] [[TODO]]
 ## TODO taak 1
 :PROPERTIES:
@@ -16,14 +16,12 @@ title: Activiteiten
 :PROPERTIES:
 :todo: 1617807705492
 :END:
-## TODO create training material
+## DOING create training material
 :PROPERTIES:
 :doing: 1617807749175
-:todo: 1617808781087
 :END:
-### review [[KIK-V]] ontologie
+### DOING review [[KIK-V]] ontologie
 :PROPERTIES:
 :doing: 1617807772721
-:done: 1617808777843
 :END:
 ##
