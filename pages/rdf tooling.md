@@ -2,6 +2,6 @@
 title: RDF Tooling
 ---
 
-## Triple store
+## Triple stores
 ## Editors
 ##
