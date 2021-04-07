@@ -4,10 +4,6 @@ title: Training 8 april
 
 ## Training script 8 april 2021
 
-
-
-
-
 Analyseer structuur:
 - Lijst
 - Visueel
