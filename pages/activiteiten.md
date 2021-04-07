@@ -6,4 +6,5 @@ title: Activiteiten
 ## Initiele feedback [[VPH ontologie feedback]] [[DONE]]
 ## Beschrijf hoe [[SHACL]] gebruikt zou kunnen worden binnen [[KIK-V]] [[TODO]]
 ## TODO:
+### taak 1
 ###
