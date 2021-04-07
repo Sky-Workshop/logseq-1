@@ -3,4 +3,4 @@ title: OWL
 ---
 
 ## Restrictions
-###
+### SomeValueFrom
