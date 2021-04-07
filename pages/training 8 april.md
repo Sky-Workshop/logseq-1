@@ -26,4 +26,6 @@ WHERE {
 }
 
 Voordeel van deze methode?
--
+- Overzicht
+- Toont eventuele issues omdat het allemaal skos:scopenotes moeten zijn.
+##
