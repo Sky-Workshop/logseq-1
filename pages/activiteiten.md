@@ -31,8 +31,9 @@ title: Activiteiten
 :PROPERTIES:
 :todo: 1617809521464
 :END:
-### TODO activiteit 2
+### DONE activiteit 2
 :PROPERTIES:
 :todo: 1617809538174
+:done: 1617809545012
 :END:
 ###
