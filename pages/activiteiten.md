@@ -2,7 +2,10 @@
 title: Activiteiten
 ---
 
-## Maak plan NZA queries [[TODO]]
+## TODO Maak plan NZA queries
+:PROPERTIES:
+:todo: 1617809188799
+:END:
 ## Initiele feedback [[VPH ontologie feedback]] [[DONE]]
 ## Beschrijf hoe [[SHACL]] gebruikt zou kunnen worden binnen [[KIK-V]] [[TODO]]
 ## TODO taak 1
