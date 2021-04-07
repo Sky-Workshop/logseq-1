@@ -13,10 +13,11 @@ title: Activiteiten
 :PROPERTIES:
 :todo: 1617807705492
 :END:
-## DOING 
+## DOING create training material
 :PROPERTIES:
 :doing: 1617807749175
 :END:
+###
 ### NOW
 :PROPERTIES:
 :now: 1617807698708
