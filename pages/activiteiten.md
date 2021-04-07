@@ -23,3 +23,8 @@ title: Activiteiten
 :doing: 1617807772721
 :done: 1617809247854
 :END:
+## TODO Definieer [[KIK-V]] ontologie ontwikkeling
+:PROPERTIES:
+:todo: 1617810753845
+:END:
+##
