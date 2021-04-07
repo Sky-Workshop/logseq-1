@@ -3,5 +3,5 @@ title: OWL
 ---
 
 ## Restrictions
-### Some (SomeValueFrom) hasPet some Dog
-### Has
+### some (SomeValueFrom or existential) hasPet some Dog
+### value (HasValue)
