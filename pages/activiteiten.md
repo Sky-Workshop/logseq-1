@@ -16,12 +16,14 @@ title: Activiteiten
 :PROPERTIES:
 :todo: 1617807705492
 :END:
-## DOING create training material
+## TODO create training material
 :PROPERTIES:
 :doing: 1617807749175
+:todo: 1617808781087
 :END:
-### DOING review [[KIK-V]] ontologie
+### review [[KIK-V]] ontologie
 :PROPERTIES:
 :doing: 1617807772721
+:done: 1617808777843
 :END:
 ##
