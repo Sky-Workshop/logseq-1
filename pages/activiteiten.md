@@ -7,5 +7,5 @@ title: Activiteiten
 ## Beschrijf hoe [[SHACL]] gebruikt zou kunnen worden binnen [[KIK-V]] [[TODO]]
 ## TODO:
 ### taak 1
-## <
+##
 ##
