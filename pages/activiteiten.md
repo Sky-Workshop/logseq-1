@@ -23,15 +23,15 @@ title: Activiteiten
 :doing: 1617807772721
 :done: 1617809247854
 :END:
-## DOING [[Project X]]
+## TODO [[Project X]]
 :PROPERTIES:
-:todo: 1617809694961
 :doing: 1617809699306
+:todo: 1617809728588
 :END:
-### DOING activiteit 1
+### TODO activiteit 1
 :PROPERTIES:
 :doing: 1617809720674
-:todo: 1617809521464
+:todo: 1617809731437
 :END:
 ### DONE activiteit 2
 :PROPERTIES:
