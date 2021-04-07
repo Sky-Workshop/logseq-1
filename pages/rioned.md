@@ -9,5 +9,3 @@ title: RIONED
 ### Stabiele open standaard met certificering (borging kwaliteit)
 ### Toepassingsgericht, met gevoel van eigenaarschap
 ### Voor stabiele businessmodellen o.b.v. [[GWSW]] en voor GWSW-advisering
-##
-##
