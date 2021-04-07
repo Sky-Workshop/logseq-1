@@ -2,5 +2,6 @@
 title: Asset management
 ---
 
-## [[Presentatie RIONED]] 
+## Asset management wordt momenteel sterk beinvoed door de Semantic Web technology
+## [[Presentatie RIONED]]
 ##
