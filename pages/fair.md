@@ -2,4 +2,4 @@
 title: FAIR
 ---
 
-## FAIR data is een ontwikkeling die vooral binnen lifesciences datamanagement vormgeeft.
+## FAIR data is een ontwikkeling die vooral binnen lifesciences datamanagement vormgeeft. Belangrijke mensen
