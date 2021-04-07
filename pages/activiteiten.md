@@ -7,10 +7,11 @@ title: Activiteiten
 ## Beschrijf hoe [[SHACL]] gebruikt zou kunnen worden binnen [[KIK-V]] [[TODO]]
 ## TODO:
 ### taak 1
-## TODO 
+## TODO solve XYZ
 :PROPERTIES:
 :todo: 1617807705492
 :END:
+###
 ### NOW
 :PROPERTIES:
 :now: 1617807698708
