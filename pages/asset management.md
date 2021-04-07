@@ -2,6 +2,6 @@
 title: Asset management
 ---
 
-## Asset management wordt momenteel sterk beinvoed door de Semantic Web technology
+## Asset management wordt momenteel sterk beïnvloed door de Semantic Web technologie.
 ## [[Presentatie RIONED]]
 ##
