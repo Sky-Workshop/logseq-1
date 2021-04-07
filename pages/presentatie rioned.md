@@ -5,7 +5,7 @@ title: Presentatie RIONED
 ## Typische activiteiten
 ## Verschil Protegé  en Composer
 ## Navigeren in Composer
-## Edit is de source
+## Edit in de source
 ## [[RDF Tooling]]
 ## new without
 ### added line 1
