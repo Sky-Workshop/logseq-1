@@ -5,7 +5,7 @@ title: Presentatie RIONED
 ## Typische activiteiten
 ### Edit resources en annotaties
 ### Creëer nieuwe resources
-###
+### Versie beheer
 ## SPARQL
 ## Verschil Protegé  en Composer
 ## Navigeren in Composer
