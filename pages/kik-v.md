@@ -10,5 +10,5 @@ title: KIK-V
 ### NZA
 ### IGenJ
 ###
-### GS1
+### ((GS1))
 ### HE7
