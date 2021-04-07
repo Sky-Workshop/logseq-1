@@ -28,15 +28,15 @@ title: Activiteiten
 :doing: 1617809737605
 :todo: 1617809728588
 :END:
-### DOING activiteit 1
+### TODO activiteit 1
 :PROPERTIES:
 :doing: 1617809742447
-:todo: 1617809731437
+:todo: 1617809778732
 :END:
 ### DONE activiteit 2
 :PROPERTIES:
 :doing: 1617809768193
 :todo: 1617809538174
-:done: 1617809769497
+:done: 1617809545012
 :END:
 ###
