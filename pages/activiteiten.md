@@ -14,7 +14,7 @@ title: Activiteiten
 :PROPERTIES:
 :todo: 1617809214731
 :END:
-## DOING create training material
+## DOING create training material voor [[RIONED]] 
 :PROPERTIES:
 :doing: 1617807749175
 :END:
