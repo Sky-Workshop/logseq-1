@@ -13,4 +13,5 @@ title: Presentatie RIONED
 ### Protege is geen RDF by design
 ### Composer (ook Eclipse) ook niet maar gebruikt RDF bestanden voor opslag
 ### EDG is full RDF by design
-##
+## Voorstellen
+## maak class expression
