@@ -7,3 +7,4 @@ title: boodschappenlijst karwei
 ## Nr 4
 ## co2 melder
 ## beslag deur
+## 16 mm houtboor
