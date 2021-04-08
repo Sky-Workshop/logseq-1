@@ -18,7 +18,8 @@ title: Presentatie RIONED
 :todo: 1617859894209
 :done: 1617868680716
 :END:
-## TODO maak class expression
+## DONE maak class expression
 :PROPERTIES:
 :todo: 1617859885175
+:done: 1617868682176
 :END:
