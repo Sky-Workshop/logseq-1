@@ -14,4 +14,7 @@ title: Presentatie RIONED
 ### Composer (ook Eclipse) ook niet maar gebruikt RDF bestanden voor opslag
 ### EDG is full RDF by design
 ## Voorstellen
-## maak class expression
+## TODO maak class expression
+:PROPERTIES:
+:todo: 1617859885175
+:END:
