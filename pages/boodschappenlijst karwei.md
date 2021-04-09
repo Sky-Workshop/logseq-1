@@ -8,4 +8,4 @@ title: boodschappenlijst karwei
 ## co2 melder
 ## beslag deur
 ## 16 mm hout boor
-##
+## Kraan slang aansluiting
