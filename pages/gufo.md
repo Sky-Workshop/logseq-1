@@ -5,5 +5,5 @@ title: Gufo
 ## Characteristics:
 ### Subclasses
 ### instances
-### subclasses
+### subclasses types
 ### instances of types
