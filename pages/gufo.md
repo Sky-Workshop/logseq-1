@@ -13,7 +13,7 @@ title: Gufo
 ## Hoe verhouden een op gufo gebaseerde ontologie zich tot operationele data?
 ### Jan de verzorger kan een instantie van gufo:Object
 ## Individual
-    AbstractIndividual
+### AbstractIndividual
     ConcreteIndividual
         Endurant
             Object
