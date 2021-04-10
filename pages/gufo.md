@@ -51,6 +51,5 @@ title: Gufo
 :arbeidsOngeschiktHeidVan rdf:type owl:ObjectProperty;
     rdfs:subPropertyOf gufo:inheresIn ;
     rdfs:domain :arbeidsOngeschiktHeid ;
-    rdfs:range :Person .
-`
+    rdfs:range :Person . `
 ##
