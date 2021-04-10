@@ -14,12 +14,12 @@ title: Gufo
 ### Jan de verzorger kan een instantie van gufo:Object
 ## Individual
 ### AbstractIndividual
-    ConcreteIndividual
-        Endurant
-            Object
-            Aspect
-        Event
-        Situation
+### ConcreteIndividual
+#### Endurant
+##### Object
+##### Aspect
+#### Event
+#### Situation
 ### Subclasses
 ### instances
 ### subclasses types
