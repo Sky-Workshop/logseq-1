@@ -53,4 +53,4 @@ title: Gufo
     rdfs:domain :arbeidsOngeschiktHeid ;
     rdfs:range :Person .
 #+END_EXAMPLE
-##
+## Een vph:Arbeidsovereenkomst zou ook als een
