@@ -21,7 +21,22 @@ title: Gufo
 #### Event
 #### Situation
 ## Type
-###
+### AbstractIndividualType
+    ConcreteIndividualType
+        EndurantType
+            Sortal
+                Kind
+                Phase
+                Role
+                SubKind
+            NonSortal
+                Category
+                PhaseMixin
+                RoleMixin
+                Mixin
+        EventType
+        SituationType
+    RelationshipType
 ### Subclasses
 ### instances
 ### subclasses types
