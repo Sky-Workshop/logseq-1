@@ -44,9 +44,4 @@ title: Gufo
         EventType
         SituationType
     RelationshipType
-### Subclasses
-### instances
-### subclasses types
-### instances
-### subclasses types
-### instances of types
+## In VPH kan arbeidsongeschiksheid gemodelleerd worden als een gufo:IntrinsicMode.
