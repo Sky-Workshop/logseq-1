@@ -48,6 +48,7 @@ title: Gufo
 #+BEGIN_EXAMPLE
 :arbeidsOngeschiktHeid rdf:type owl:Class ;
     rdfs:subClassOf gufo:IntrinsicMode .
+
 :arbeidsOngeschiktHeidVan rdf:type owl:ObjectProperty;
     rdfs:subPropertyOf gufo:inheresIn ;
     rdfs:domain :arbeidsOngeschiktHeid ;
