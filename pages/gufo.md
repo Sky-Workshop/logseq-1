@@ -12,6 +12,14 @@ title: Gufo
 #### specializes gufo types, e.g. :PersonPhase rdfs:subClassOf gufo:Phase
 ## Hoe verhouden een op gufo gebaseerde ontologie zich tot operationele data?
 ### Jan de verzorger kan een instantie van gufo:Object
+## Individual
+    AbstractIndividual
+    ConcreteIndividual
+        Endurant
+            Object
+            Aspect
+        Event
+        Situation
 ### Subclasses
 ### instances
 ### subclasses types
