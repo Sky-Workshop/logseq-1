@@ -12,8 +12,8 @@ title: Gufo
 #### specializes gufo types, e.g. :PersonPhase rdfs:subClassOf gufo:Phase
 ### Vaak worden specialisaties van een gufo class gecombineerd met instantie van een gufo type. b.v. `
         :Person rdf:type owl:Class ;
-        rdfs:subClassOf gufo:Object ;
-        rdf:type gufo:Kind .
+            rdfs:subClassOf gufo:Object ;
+            rdf:type gufo:Kind .
 ###
 ###
 ## Hoe verhouden een op gufo gebaseerde ontologie zich tot operationele data?
