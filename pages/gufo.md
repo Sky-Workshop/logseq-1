@@ -11,7 +11,7 @@ title: Gufo
 #### instantiations of gufo types, e.g. :Planet rdf:type gufo:Kind
 #### specializes gufo types, e.g. :PersonPhase rdfs:subClassOf gufo:Phase
 ## Hoe verhouden een op gufo gebaseerde ontologie zich tot operationele data?
-### Jan de verzorger kan een instantie van gufo:Kind
+### Jan de verzorger kan een instantie van gufo:Object
 ### Subclasses
 ### instances
 ### subclasses types
