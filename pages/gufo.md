@@ -3,6 +3,7 @@ title: Gufo
 ---
 
 ## Characteristics:
+### Supports instantiation  ans speciali
 ### Is a taxonomy of individuals
 #### instantates gufo classes, e.g. :Earth rdf:type gufo:Object
 ####
