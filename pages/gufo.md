@@ -10,7 +10,8 @@ title: Gufo
 ### Is a taxonomy of types
 #### instantiations of gufo types, e.g. :Planet rdf:type gufo:Kind
 #### specializes gufo types, e.g. :PersonPhase rdfs:subClassOf gufo:Phase
-## Hoe verhouden een op gufo gebasseerde ontologie zich tot operationele data?
+## Hoe verhouden een op gufo gebaseerde ontologie zich tot operationele data?
+###
 ### Subclasses
 ### instances
 ### subclasses types
