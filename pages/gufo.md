@@ -20,6 +20,8 @@ title: Gufo
 ##### Aspect
 #### Event
 #### Situation
+## Type
+###
 ### Subclasses
 ### instances
 ### subclasses types
