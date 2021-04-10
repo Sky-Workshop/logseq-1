@@ -6,6 +6,7 @@ title: Gufo
 ### Is a taxonomy of individuals
 ### Is a taxonomy of types
 #### instantiations of gufo types, e.g. :Planet rdf:type gufo:Kind
+#### specializes gufo types, e.g.
 ### Subclasses
 ### instances
 ### subclasses types
