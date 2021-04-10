@@ -45,7 +45,10 @@ title: Gufo
         SituationType
     RelationshipType
 ## In VPH kan arbeidsongeschiksheid gemodelleerd worden als een gufo:IntrinsicMode.
-:arbeidsOngeschiktHeid rd
-:arbeidsOngeschikt rdfs:type owl:ObjectProperty;
+
+:arbeidsOngeschiktHeid rdf:type owl:Class ;
+    rdfs:subClassOf gufo:IntrinsicMode .
+
+:arbeidsOngeschiktHeidVan rdfs:type owl:ObjectProperty;
     rdfs:subPropertyOf gufo:inheresIn ;
     rdfs:domain :
