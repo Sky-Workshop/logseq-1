@@ -53,5 +53,5 @@ title: Gufo
     rdfs:domain :arbeidsOngeschiktHeid ;
     rdfs:range :Person .
 #+END_EXAMPLE
-## Een vph:Arbeidsovereenkomst zou ook als een http://purl.org/nemo/gufo#TemporaryRelationshipSituation gezien kunne worden.
+## Een vph:Arbeidsovereenkomst is geen http://purl.org/nemo/gufo#TemporaryRelationshipSituation gezien kunnen worden.
 ##
