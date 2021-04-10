@@ -5,7 +5,7 @@ title: Gufo
 ## Characteristics:
 ### Supports instantiation  ans specialization of gufo individuals ans classes
 ### Is a taxonomy of individuals
-#### instantates gufo classes, e.g. :Earth rdf:type gufo:Object
+#### instantiates gufo classes, e.g. :Earth rdf:type gufo:Object
 ####
 ### Is a taxonomy of types
 #### instantiations of gufo types, e.g. :Planet rdf:type gufo:Kind
