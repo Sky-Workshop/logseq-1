@@ -27,7 +27,7 @@ title: Activiteiten
 :PROPERTIES:
 :todo: 1617810753845
 :END:
-## TODO Bel Aegon, MSD kent geen bijspaar mogelijkheid. Ti
+## TODO Bel Aegon, MSD kent geen bijspaar mogelijkheid. Lifesight neemt geen levensloop regeling over. 
 :PROPERTIES:
 :todo: 1617896099262
 :END:
