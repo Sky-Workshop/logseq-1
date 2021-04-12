@@ -12,3 +12,13 @@ heeftHuisnummerToevoeging	NummerAanduiding
 heeftPostcode	NummerAanduiding
 heeftVerzuimPeriode	WerkOvereenkomst
 is_client_binnen_verpleegproces	VPH-domain-ontology:Human
+
+is_client_binnen_verpleegproces	NursingProcess
+hasAgreement	VPH-domain-ontology:Agreement
+hasDescription	VPH-domain-ontology:Description
+bijbehorendeOpenbareRuimte	VPH-domain-ontology:PublicArea
+hasQuality	VPH-domain-ontology:Quality
+hasQualityValue	VPH-domain-ontology:QualityValue
+hasUnitOfMeasure	VPH-domain-ontology:UnitOfMeasure
+bijbehorendeWoonplaats	VPH-domain-ontology:VillageOrCity
+heeftVerzuimPeriode	VerzuimPeriode
