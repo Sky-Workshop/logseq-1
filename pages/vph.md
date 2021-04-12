@@ -11,6 +11,7 @@ title: VPH
 ### locaties
 ### kosten
 ### indicaties / client
+### opbrengen / welzijn
 ## Alleen object properties:
 heeftHuisnummer	NummerAanduiding
 heeftHuisnummerToevoeging	NummerAanduiding
