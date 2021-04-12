@@ -27,8 +27,9 @@ title: Activiteiten
 :PROPERTIES:
 :todo: 1617810753845
 :END:
-## TODO Bel Aegon, MSD kent geen bijspaar mogelijkheid. Lifesight neemt geen levensloop regeling over. rest Teva 100,90,80 regeling 
+## TODO Bel Aegon, MSD kent geen bijspaar mogelijkheid. Lifesight neemt geen levensloop regeling over. rest Teva 100,90,80 regeling.
 :PROPERTIES:
 :todo: 1617896099262
 :END:
+Of: jaarruimte gebruiken.
 ##
