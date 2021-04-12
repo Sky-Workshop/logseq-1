@@ -6,3 +6,9 @@ title: VPH
 ### Een valide waarde is dan /http://id.who.int/icd/entity/380028323, zie https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/380028323 .
 ### De resteert dan waar deze class in [[VPH]] wordt opgenomen.
 ## Momenteel is VPH een herbouw van een combinatie van classes uit DOLCE, gUFO, BFO etc Relaties zijn gedefinieerd maar nog niet toegekend aan domein classes.
+## Alleen:
+heeftHuisnummer	NummerAanduiding
+heeftHuisnummerToevoeging	NummerAanduiding
+heeftPostcode	NummerAanduiding
+heeftVerzuimPeriode	WerkOvereenkomst
+is_client_binnen_verpleegproces	VPH-domain-ontology:Human
