@@ -40,4 +40,5 @@ herstelDatum	xsd:date
 :PROPERTIES:
 :todo: 1618227356245
 :END:
+### Hoe nauwkeurig moeten deze zijn om evt reasoning mogelijk te maken?
 ###
