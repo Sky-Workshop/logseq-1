@@ -36,4 +36,7 @@ heeftHuisnummer	xsd:integer
 heeftKvkNummer	xsd:string
 heeftVestigingsNummer	xsd:string
 herstelDatum	xsd:date
-##
+## TODO Wat is verstandig vwb properties bij het gebruik van een 
+:PROPERTIES:
+:todo: 1618227356245
+:END:
