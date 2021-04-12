@@ -23,3 +23,16 @@ hasUnitOfMeasure	VPH-domain-ontology:UnitOfMeasure
 bijbehorendeWoonplaats	VPH-domain-ontology:VillageOrCity
 heeftVerzuimPeriode	VerzuimPeriode
 ## en datatype properties:
+VPH-domain-ontology:hasDataValue	xsd:string
+ZiektePercentage	xsd:integer
+aoPercentage	xsd:integer
+birthname	xsd:string
+eindDatum	xsd:date
+gewerkteUren	xsd:decimal
+hasNumericalValue	xsd:decimal
+heeftBSN	xsd:string
+heeftDatum	xsd:date
+heeftHuisnummer	xsd:integer
+heeftKvkNummer	xsd:string
+heeftVestigingsNummer	xsd:string
+herstelDatum	xsd:date
