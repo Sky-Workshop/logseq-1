@@ -7,9 +7,10 @@ title: VPH
 ### De resteert dan waar deze class in [[VPH]] wordt opgenomen.
 ## Momenteel is VPH een herbouw van een combinatie van classes uit DOLCE, gUFO, BFO etc Relaties zijn gedefinieerd maar nog niet toegekend aan domein classes.
 ## VPH moet in een redelijk aantal deel ontologieën worden opgesplitst omwille van beheerbaarheid en begrijpbaarheid. Voorstel:
-### contracten
+### arbeidscontracten
 ### locaties
 ### kosten
+###
 ## Alleen object properties:
 heeftHuisnummer	NummerAanduiding
 heeftHuisnummerToevoeging	NummerAanduiding
