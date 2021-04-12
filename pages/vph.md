@@ -6,7 +6,7 @@ title: VPH
 ### Een valide waarde is dan /http://id.who.int/icd/entity/380028323, zie https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/380028323 .
 ### De resteert dan waar deze class in [[VPH]] wordt opgenomen.
 ## Momenteel is VPH een herbouw van een combinatie van classes uit DOLCE, gUFO, BFO etc Relaties zijn gedefinieerd maar nog niet toegekend aan domein classes.
-## Alleen:
+## Alleen object properties:
 heeftHuisnummer	NummerAanduiding
 heeftHuisnummerToevoeging	NummerAanduiding
 heeftPostcode	NummerAanduiding
@@ -22,3 +22,4 @@ hasQualityValue	VPH-domain-ontology:QualityValue
 hasUnitOfMeasure	VPH-domain-ontology:UnitOfMeasure
 bijbehorendeWoonplaats	VPH-domain-ontology:VillageOrCity
 heeftVerzuimPeriode	VerzuimPeriode
+## en datatype properties:
