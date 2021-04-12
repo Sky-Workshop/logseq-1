@@ -10,7 +10,7 @@ title: VPH
 ### arbeidscontracten
 ### locaties
 ### kosten
-###
+### indicaties
 ## Alleen object properties:
 heeftHuisnummer	NummerAanduiding
 heeftHuisnummerToevoeging	NummerAanduiding
