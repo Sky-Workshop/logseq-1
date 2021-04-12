@@ -7,4 +7,4 @@ title: Zin Architectuur
 ## dekoze declaraties
 ## Data stations door meer dan KIK-V bruikbaar, dus organisatie als ontologie vastleggen.
 ## [[Netwerkzorg]]
-## Modelleer de organisatie
+## Modelleer de organisatie om
