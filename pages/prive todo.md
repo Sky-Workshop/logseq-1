@@ -2,6 +2,6 @@
 title: Prive TODO
 ---
 
-## {{query ( [[prive]])}}
+## {{query (and (todo todo) [[prive]] ) }}
 ##
 ##
