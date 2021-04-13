@@ -9,4 +9,4 @@ title: ORG
 ### vph:OrganizationalChangeEvent
 ### vph:IntentionalProcess
 ## De organisatie ontwikkeling is belangrijk aspect waarvoor meestal PROV wordt gebruikt.
-### Zo is prov:
+### Zo is prov:Activity
