@@ -2,4 +2,4 @@
 title: Prive TODO
 ---
 
-## 
+## {{query }}
