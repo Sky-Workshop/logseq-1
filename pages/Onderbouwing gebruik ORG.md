@@ -14,4 +14,4 @@ title: Onderbouwing gebruik ORG
 ### In ORG is org:ChangeEvent een subclass van prov:Activity. 
 Hiermee kunnen we van oude naar nieuwe organisatie gaan middels SPARQL queries.
 ## [[Hier]][[https://www.w3.org/2011/gld/wiki/ORG_Validation_Suite]] kan het gebruik van ORG worden gecheckt.
-###
+##
