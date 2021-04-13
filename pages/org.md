@@ -7,4 +7,5 @@ title: ORG
 ## Momenteel zijn er een aantal classes in VPH die over de organisatie gaan:
 ### vph:Organisation
 ### vph:OrganizationalChangeEvent
-### vph:Process
+### vph:IntentionalProcess
+##
