@@ -14,4 +14,8 @@ title: vph-org
 ###
 ## Ontwerp richtingen te beslissen:
 ### PROV i.p.v. mogelijke wijzigingen reificeren
+### LATER Wat is een goede base strategie?
+:PROPERTIES:
+:later: 1618398611659
+:END:
 ###
