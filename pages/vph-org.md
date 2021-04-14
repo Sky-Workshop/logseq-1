@@ -4,7 +4,8 @@ title: vph-org
 
 ## Voor onderbouwing ORG zie [[Onderbouwing gebruik ORG]]
 ## Keuzes gemaakt:
-### PROV
+### vph-org is een deelgraaf
+###
 ## Te maken keuzes:
-### PROV ipv mogelijke wijzigingen reificeren
+### PROV i.p.v. mogelijke wijzigingen reificeren
 ###
