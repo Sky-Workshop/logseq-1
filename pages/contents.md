@@ -2,4 +2,5 @@
 ## [[Training 8 april]]
 ## [[Presentatie RIONED]]
 ## [[Asset management]]
-## {{query (and [[kik-v]])}}
+## {{query (and [[kik-v]] [[OntoUML]] )}}
+##
