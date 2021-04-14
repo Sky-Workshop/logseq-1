@@ -3,6 +3,8 @@ title: vph-org
 ---
 
 ## Voor onderbouwing ORG zie [[Onderbouwing gebruik ORG]]
+## Beslissingen:
+###
 ## Keuzes gemaakt en te overleggen:
 ### vph-org is een deelgraaf die gebruik maakt van [[vph]]
 ###
