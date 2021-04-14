@@ -8,6 +8,6 @@ title: vph-org
 ## Keuzes te overleggen:
 ### vph-org is een deelgraaf die gebruik maakt van [[vph]]
 ###
-## Te maken keuzes:
+## Ontwerp richtingen te kiezenTe maken keuzes:
 ### PROV i.p.v. mogelijke wijzigingen reificeren
 ###
