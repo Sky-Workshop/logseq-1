@@ -21,4 +21,4 @@ title: vph-org
 :PROPERTIES:
 :later: 1618398611659
 :END:
-### Kunnen we iets zeggen over dat physical en non-physical concepts in een sub
+### Kunnen we iets zeggen over dat physical en non-physical concepts in een subgraaf
