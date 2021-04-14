@@ -22,7 +22,7 @@ title: vph-org
 :PROPERTIES:
 :later: 1618398611659
 :END:
-### TODO Kunnen we iets zeggen over dat physical en non-physical concepts in een subgraaf?
+### TODO Kunnen we iets zeggen over dat physical en non-physical concepts in een subgraaf? 
 :PROPERTIES:
 :todo: 1618402668313
 :END:
