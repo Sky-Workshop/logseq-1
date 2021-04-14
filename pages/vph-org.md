@@ -16,7 +16,7 @@ title: vph-org
 ### bag:structuur is
 ### kik:Vestiging volgens KvK is een
 ## **Ontwerp richtingen te beslissen:**
-### PROV i.p.v. mogelijke wijzigingen reificeren
+### PROV i.p.v. alle mogelijke wijzigingen reificeren
 ### LATER Wat is een goede base strategie?
 :PROPERTIES:
 :later: 1618398611659
