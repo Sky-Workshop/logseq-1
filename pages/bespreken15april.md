@@ -12,4 +12,5 @@ title: bespreken15april
 ## VPH gaat opgesplitst worden
 ## Uit voorzorg eigen namespace
 ## Meta data discussie vooral validatedDate
+## Voorbeeld volgels, pinguin
 ##
