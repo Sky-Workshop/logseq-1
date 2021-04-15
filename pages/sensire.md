@@ -2,4 +2,4 @@
 title: sensire
 ---
 
-## ## Bij Sensire wordt een eerste datastation gerealiseerd.
+## Bij Sensire wordt een eerste datastation gerealiseerd.
