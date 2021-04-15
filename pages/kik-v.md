@@ -12,7 +12,6 @@ title: KIK-V
 ### GS1
 ### HE7
 ## Scope is verpleeghuizen. Maar dit is een split met thuiszorg welke ook onder VVT valt. Sensire heeft b.v. ook thuiszorg. #sensire #bespreken15april
-## 
 |Afscheiding|VPH|rest|
 |-|-|-|
 |VVT|VPH|TZ|
