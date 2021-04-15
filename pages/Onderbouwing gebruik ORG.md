@@ -13,6 +13,8 @@ title: Onderbouwing gebruik ORG
 ## Proces categorieen zijn: Zorgverlening, Calamiteitafhandeling, Data management
 ## De organisatie ontwikkeling is belangrijk aspect waarvoor meestal PROV wordt gebruikt. 
 Zonder deze opvraagbare historie zal er waardevolle gegevens verloren gaan.
+### In ORG is org:ChangeEvent een subclass van prov:Activity. 
+Hiermee kunnen we van oude naar nieuwe organisatie gaan middels SPARQL queries.
 ### ![2021_04_13_afbeelding.png](https://cdn.logseq.com/%2F8f1ae382-5f18-4f77-89b5-10a6cfda69c51864279a-cf86-4924-a080-fa006359f4bf2021_04_13_afbeelding.png?Expires=4771926351&Signature=EiKjI-DG6KIzcdXhrpMUK91tLEYjmM2kKdAhVdLbbwwwAtrHSXL5oQZJOsWVxT89RpZ6EKLb1p0OQYbO7lsAleRTsWUf8WG38AbK6Lii0u6SXp4MQIkIZoBVj-oi8r8qYtxEtgwQzgMPiMp2V3x6KZWa4gcu~NJ-8F3Qw4-rHan2duCnYHjIN-t0waR-LkZpAKObD2fZbdpjZ9ykIwflGuVYwU~-OXNmQYzH0rgoXFPfLgF3UrrZqRfzldWO-vhJYOFhNQP5o9lP-DTtlemSJbfh~BcjYfheyEetzkLf57gP8pGyfo9uSfTzktvq0KM-JXljc2nLx~WdVAU5aww3YA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ### [[PROV]][[https://www.w3.org/TR/prov-o/]] gebruikt: Agent, Entity en Activity.
 ### [[[[prov:]][[Activity]]]] het type van wijzigingen die traceerbaar moet zijn, 
