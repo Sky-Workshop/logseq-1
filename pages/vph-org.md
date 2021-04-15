@@ -21,7 +21,7 @@ title: vph-org
 ### kik:Vestiging volgens KvK is een
 ## **Ontwerp richtingen te beslissen:**
 ### PROV i.p.v. alle mogelijke wijzigingen te reificeren
-### LATER Wat is een goede base strategie?
+### LATER Wat is een goede base strategie? #implementatie
 :PROPERTIES:
 :later: 1618398611659
 :END:
