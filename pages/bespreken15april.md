@@ -6,3 +6,4 @@ title: bespreken15april
 - ORG
 - UFO-S
 - FIBO
+## Meerdere upper ontologieën, is dat een gevaar?
