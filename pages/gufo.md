@@ -15,7 +15,7 @@ title: Gufo
             rdfs:subClassOf gufo:Object ;
             rdf:type gufo:Kind .
 ## Hoe verhouden een op gufo gebaseerde ontologie zich tot operationele data?
-### Jan de verzorger kan een instantie van gufo:Object
+### Jan de verzorger kan een instantie van gufo:Object zijn
 ## Direct gebruikmaken van de gufo classes geeft al snel richting aan semantiek
 ## Individual
 ### AbstractIndividual
