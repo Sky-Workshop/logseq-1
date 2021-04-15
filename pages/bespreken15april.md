@@ -13,4 +13,4 @@ title: bespreken15april
 ## Uit voorzorg eigen namespace
 ## Meta data discussie vooral validatedDate
 ## Voorbeeld volgels, pinguin
-## E
+## Fabienne en ellen kampert voor conceptueel modellen
