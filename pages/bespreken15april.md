@@ -8,5 +8,6 @@ title: bespreken15april
 - FIBO
 ## Meerdere upper ontologieën, is dat een gevaar?
 ## Qualityregions is policy
+## Onderscheid inhoud en document
 ## VPH gaat opgesplitst worden
 ## Uit voorzorg
