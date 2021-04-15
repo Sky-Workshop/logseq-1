@@ -17,8 +17,7 @@ Zonder deze opvraagbare historie zal er waardevolle gegevens verloren gaan.
 ### [[PROV]][[https://www.w3.org/TR/prov-o/]] gebruikt: Agent, Entity en Activity.
 ### [[[[prov:]][[Activity]]]] het type van wijzigingen die traceerbaar moet zijn, 
 b.v. ontstaan van een zorglocatie.
-### In ORG is org:ChangeEvent een subclass van prov:Activity. 
-Hiermee kunnen we van oude naar nieuwe organisatie gaan middels SPARQL queries.
+###
 ## [Hier](https://www.w3.org/2011/gld/wiki/ORG_Validation_Suite) kan het gebruik van ORG worden gecheckt.
 ## Hoe verder? Een voorstel
 ### Identificeer classes en properties die overgezet kunnen worden naar de sub-graaf.
