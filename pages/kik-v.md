@@ -17,6 +17,3 @@ title: KIK-V
 |VVT|VPH|TZ|
 |-|-|-|
 |Zorg markt|VPH|Verzekeraars en Consumenten|
-##
-##
-##
