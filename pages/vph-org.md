@@ -14,7 +14,10 @@ title: vph-org
 ### vph gaat t/m Organization. vph-org heeft dit als superclass 
 ![2021_04_14_afbeelding.png](https://cdn.logseq.com/%2F8f1ae382-5f18-4f77-89b5-10a6cfda69c572913225-0cf7-4589-aa1e-d64ac5c98daf2021_04_14_afbeelding.png?Expires=4771989593&Signature=MD4qiUm1Yd~91Td~hZEJCxObggZrdaXyjpqQhB1ZdIAGyGP02NwQILlXTbTH3MmxsE3UV86K-B8UJgfm9b1vmmwHEvHbpOxHu4BFLEE1pCPjHoSwB-AZZfwUDFYJBml472K-zUUW5vv0zRd6ODgOf9KhLTERdWTc2JJsEgsqPQbpNhne1U7~HjSVc6ORR0hvy5p4iKCsSRcnOAyad0ZS0OfN3gap8MjYfeERSlWPoHsAAF2w20DccTwaKERDkXIWG40g-7kiWXo3RNUq-73vMXKfTQ~sAKf39qBzxz3E15NrxrQc7pj8kElsn5YmoPu80UMxkWcPdkePYKfGb-wQhg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ### vph:AccomodativeObject is de basis voor locatie waarin de BAG structuur kan worden opgenomen.
-### bag:structuur is, Zie opmekingen Roxanne
+### TODO bag:structuur is, Zie opmerkingen Roxanne
+:PROPERTIES:
+:todo: 1618505113194
+:END:
 ### kik:Vestiging volgens KvK is een
 ## **Ontwerp richtingen te beslissen:**
 ### PROV i.p.v. alle mogelijke wijzigingen te reificeren
