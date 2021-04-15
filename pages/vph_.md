@@ -3,4 +3,5 @@ title: vph:
 ---
 
 ## This page covers all subjects related to the vph namespace.
-## Properties
+## Properties are also covered is a seperate page; without namespace.
+##
