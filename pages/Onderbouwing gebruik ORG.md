@@ -21,4 +21,4 @@ b.v. ontstaan van een zorglocatie.
 Hiermee kunnen we van oude naar nieuwe organisatie gaan middels SPARQL queries.
 ## [Hier](https://www.w3.org/2011/gld/wiki/ORG_Validation_Suite) kan het gebruik van ORG worden gecheckt.
 ## Hoe verder? Een voorstel
-###
+### Identificeer classes die
