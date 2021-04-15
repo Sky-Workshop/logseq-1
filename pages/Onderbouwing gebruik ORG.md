@@ -8,7 +8,7 @@ title: Onderbouwing gebruik ORG
 ### [[[[vph:]][[Organization]]]]
 ### vph:OrganizationalChangeEvent
 ### vph:IntentionalProcess
-## vph:Organization en [[ [[vph:]][[OrganizationalChangeEvent]]]] worden ook door ORG ingevuld.
+## [[[[vph:]][[Organization]]]] en [[ [[vph:]][[OrganizationalChangeEvent]]]] worden ook door ORG ingevuld.
 ## vph:IntentionalProcess zit niet in ORG. Het concept Process wordt veelvuldig gebruikt maar het lastig hier nu al iets van vast te leggen.
 ## Proces categorieen zijn: Zorgverlening, Calamiteitafhandeling, Data management
 ## De organisatie ontwikkeling is belangrijk aspect waarvoor meestal PROV wordt gebruikt. 
