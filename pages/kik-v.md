@@ -17,4 +17,4 @@ title: KIK-V
 |VVT|VPH|TZ|
 |-|-|-|
 |Zorg markt|VPH|Verzekeraars en Consumenten|
-|Branches|VVT|ziekehuizen, ggz jeugd enz|
+|Branches|VVT|ziekehuizen, ggz jeugd enz [[]]|
