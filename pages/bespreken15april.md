@@ -10,4 +10,5 @@ title: bespreken15april
 ## Qualityregions is policy
 ## Onderscheid inhoud en document
 ## VPH gaat opgesplitst worden
-## Uit voorzorg
+## Uit voorzorg eigen namespace
+## Meta data discussie
