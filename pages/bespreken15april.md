@@ -11,5 +11,5 @@ title: bespreken15april
 ## Onderscheid inhoud en document
 ## VPH gaat opgesplitst worden
 ## Uit voorzorg eigen namespace
-## Meta data discussie
+## Meta data discussie vooral validatedDate
 ##
