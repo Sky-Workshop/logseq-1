@@ -2,6 +2,6 @@
 title: VPH ontologie feedback
 ---
 
-## KIK ontologie bevat classes zonder rdfs:isDefinedBy
+## KIK ontologie bevat classes die waarschij
 ## [[Business en vestiging onderscheid]]
 ##
