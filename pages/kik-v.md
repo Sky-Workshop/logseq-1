@@ -11,4 +11,4 @@ title: KIK-V
 ### IGenJ
 ### GS1
 ### HE7
-## Scope
+## Scope is verpleeghuizen. Maar dit is een
