@@ -22,4 +22,4 @@ Hiermee kunnen we van oude naar nieuwe organisatie gaan middels SPARQL queries.
 ## [Hier](https://www.w3.org/2011/gld/wiki/ORG_Validation_Suite) kan het gebruik van ORG worden gecheckt.
 ## Hoe verder? Een voorstel
 ### Identificeer classes en properties die overgezet kunnen worden naar de sub-graaf.
-### bepaal op basis van deze ervaring een methode hoe andere subgrafen gemaakt kunnen worden.
+### bepaal op basis van deze ervaring een methode hoe andere sub-grafen gemaakt kunnen worden.
