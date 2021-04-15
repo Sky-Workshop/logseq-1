@@ -2,6 +2,7 @@
 title: Business en vestiging onderscheid
 ---
 
+##
 ## kik:Vestiging
   ```rdf:type owl:Class ;
   rdfs:isDefinedBy <https://www.kvk.nl> ;
