@@ -11,3 +11,4 @@ title: KIK-V
 ### IGenJ
 ### GS1
 ### HE7
+## Scope
