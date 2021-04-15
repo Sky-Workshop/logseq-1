@@ -26,7 +26,7 @@ title: vph-org
 :PROPERTIES:
 :todo: 1618402668313
 :END:
-### TODO Hoe moeten we ons ontwerp aanpassen op de [[Jena]] 
+### TODO Hoe moeten we ons ontwerp aanpassen op de [[Jena]] implementaties? Deze heeft immers een beperkt aantal reasoners.
 :PROPERTIES:
 :todo: 1618490980259
 :END:
