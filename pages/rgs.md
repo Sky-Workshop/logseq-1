@@ -75,7 +75,7 @@ x9conc_total_24	qPersVvtSpecZorghlp_AantalFte	5118	Zorghulp - Aantal fte's op 31
         rdfs:label "Ledger account"@en ;
         skos:note "Een grootboekrekening heeft een niets zeggende URI omdat zowel nummer, code als omschrijving kunnen veranderen. ; 
         nt15:hasRGSCode nt15:RGSCode ;
-        nt15:
+        nt15:has
 #### RGS code
     nt15:RGSCode
         rdfs:subClassOf ... ;
