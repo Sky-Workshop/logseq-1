@@ -18,4 +18,4 @@ title: RGS
 - lees uit rekeningen-ref.xml relaties tussen rekening nummer en label via link:referenceArc xlink:type="arc"
 - lees uit deze relatie ref:Number b.v. 0101010.01
 - haal label op via xlink:label="rgs-i_BIvaKouVvpBeg_ref" uit rekeningngen-ref.xsd
-## Daarnaast zijn twee role’s toegevoegd voor de definitie van respectievelijk de RGS-code (from_dts) en een concept uit een entrypoint (to_dts). DTS staat voor Discoverable Taxonomy Set.
+## Daarnaast zijn twee role’s toegevoegd voor de definitie van respectievelijk de RGS-code (from_dts) en een concept uit een entrypoint (to_dts). DTS is een XBRstaat voor Discoverable Taxonomy Set.
