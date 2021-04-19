@@ -30,6 +30,6 @@ title: RGS
 :todo: 1618836432084
 :END:
 ## Uit het handboek informatie zorgverzekeringswet (Zvw) :U kunt de jaarrekening op 2 manieren opstellen:
-    u gebruikt een modeljaarrekening van het CIBG;
+    1. u gebruikt een modeljaarrekening van het CIBG;
     u gebruikt een eigen model jaarrekening of dat van uw administratiekantoor of accountantskantoor.
-Gebruik van RGS zou dan dus invulling van op
+Gebruik van RGS zou dan dus invulling van optie 2 zijn.
