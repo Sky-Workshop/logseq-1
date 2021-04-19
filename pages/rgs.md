@@ -3,7 +3,6 @@ title: RGS
 ---
 
 ## Vraag van Marc om voor Tijn de concepten rekening schema, rubriek, rekening in VPH op te nemen:
-- 
 - RGS maar gebruik van RGS-code voor xlink waardes, b.v. rgs-i_BIva_loc. Deze begin kennelijk altijd met rgs-i_ ; derhalve rgs-i_<code>
 - rgs-i_<code>_loc is een locator (verwijzing naar een externe file)
 - RGS kent een role met een roleURI naar b.v. kvk, bzk en frc
