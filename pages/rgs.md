@@ -33,4 +33,7 @@ title: RGS
     1. u gebruikt een modeljaarrekening van het CIBG; https://www.jaarverantwoordingzorg.nl/?utm_source=jaarverslagenzorg.nl&utm_medium=redirect&utm_campaign=redirect
     2. u gebruikt een eigen model jaarrekening of dat van uw administratiekantoor of accountantskantoor.
 Gebruik van RGS zou dan dus invulling van optie 2 zijn.
-##
+## TODO Is er een verschil in financiele verslaglegging naar openbare
+:PROPERTIES:
+:todo: 1618840319004
+:END:
