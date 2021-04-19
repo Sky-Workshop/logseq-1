@@ -9,7 +9,7 @@ title: RGS
 - Het lijkt dat RGS geen concept voor rubriek te kennen. 
 - RGS maakt onderscheid tussen de rekeningen structuur en de presentatie die gebruik maakt van een relatie en een volgorde nummer.
 ![2021_04_19_afbeelding.png](https://cdn.logseq.com/%2F8f1ae382-5f18-4f77-89b5-10a6cfda69c5342cd70c-45d4-4844-b82d-79ebdc6e6af72021_04_19_afbeelding.png?Expires=4772437427&Signature=X1Sj3bTHNzmLjHXU0~AH9UEkyQlPDq1RUiCpLZl6Luzmrmr8fz2K9T3xxur-zxnFA5KDW53dfnkYef6oWg2gVG39jPFi3nBW5JCkSS~5knRavaJA2f6uuIUDNIrSdI0NWqinJNUpc15o0567tietXwyAPzP3arDK6P21EMdIA9H3ZrfWrL~Ch3SxATldvPvBQ9JkAlugN4lcGZnUmYFNA6GVTiWPy~xDadJlyz7TNNCwLhLab4yZghciFtuSj-HzQ7tt5KzBsvhO~hEHZdeBfh3~24RywE9pVEmGmLlmNLb-x6hdZzfHwDXpMBEy-jzcbIzmt-lvOvhTtgpSyszZmw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
-## Ook https://cure4.nl/publicatie/blog-nieuw-rekeningschema/ geeft een algemeen geldend rekening
+## Ook https://cure4.nl/publicatie/blog-nieuw-rekeningschema/ geeft een algemeen geldend rekeningschema maar dan specifiek voor de zorg.
 ## Het laagste niveau lijken rubrieken met een 4 karakter RGScode rgs-i_ABCD
 ## Representatie is niet belangrijk; dit zou ook het probleem van het weergeven van een tabel openbaren.
 ## RGS "entry points" legt de relatie tussen ../presentation/rgs-hierarchie-pre.xml" en "../dictionary/rgs-mapping_jaarverantwoording-2020-nlgaap-stichtingen.xm". De vraag is welke rekening types voor de verpleeghuizen (zorg) van toepassing zijn.
