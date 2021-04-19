@@ -9,4 +9,5 @@ title: RGS
 - rgs:
 ## rekeningen-lab-nl bevat rekening labels
 ## rekeningen.xsd bevat de rekeningnummers
-## rekeningen-ref.xsd bevat de rekeningnummers
+## rekeningen-ref.xsd bevat de rekeningnummers en verwijzingennaar:
+-
