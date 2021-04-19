@@ -60,7 +60,7 @@ x9conc_total_24	qPersVvtSpecZorghlp_AantalPers	5117	Zorghulp - Aantal werkzame p
 x9conc_total_24	qPersVvtSpecZorghlp_AantalFte	5118	Zorghulp - Aantal fte's op 31 december van verslagjaar
 ## Modelleer keuzes:
 ### Concepten:
-#### namespace nt15: <>
+#### namespace nt15: <http://www.nltaxonomie.nl/rgs/nt15/rgs/20201117.b/dictionary/rekeningen>
 #### Grootboekschema aka rekeningstelsel
     vph:RekeningStelsel 
         rdfs:subClassOf ... ;
@@ -72,7 +72,7 @@ x9conc_total_24	qPersVvtSpecZorghlp_AantalFte	5118	Zorghulp - Aantal fte's op 31
         rdfs:label "Grootboekrekening"@nl ;
         rdfs:label "Ledger account"@en .
 #### RGS code
-    vph:
+    nt15:
 #### Grootboekrekeningnaam
     vph:GrootboekRekeningNaam 
         rdfs:subClassOf ... ;
