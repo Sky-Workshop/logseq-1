@@ -20,7 +20,7 @@ title: RGS
 - haal label op via xlink:label="rgs-i_BIvaKouVvpBeg_ref" uit rekeningngen-ref.xsd
 ## Daarnaast zijn twee role’s toegevoegd voor de definitie van respectievelijk de RGS-code (from_dts) en een concept uit een entrypoint (to_dts). DTS is een XBRL concept en staat voor Discoverable Taxonomy Set.
 ## Software die RGS aan kan staat op [rgsready.nl](https://www.softwarepakketten.nl/cmm/swp/raadplegen_eigenschappen_kort.php?slt=72&bronw=1). De essentie is dat RGS codes gebruikt worden.
-## TODO Welke RGS codes zijn relevant voor ZiN
+## TODO Welke RGS codes zijn relevant voor ZiN?
 :PROPERTIES:
 :todo: 1618836432084
 :END:
