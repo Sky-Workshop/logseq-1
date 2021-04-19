@@ -29,6 +29,6 @@ title: RGS
 :PROPERTIES:
 :todo: 1618836432084
 :END:
-## Uit het handboek informatie zorgverzekeringswet ()Zvw) :U kunt de jaarrekening op 2 manieren opstellen:
+## Uit het handboek informatie zorgverzekeringswet (Zvw) :U kunt de jaarrekening op 2 manieren opstellen:
     u gebruikt een modeljaarrekening van het CIBG;
     u gebruikt een eigen model jaarrekening of dat van uw administratiekantoor of accountantskantoor.
