@@ -63,7 +63,7 @@ x9conc_total_24	qPersVvtSpecZorghlp_AantalFte	5118	Zorghulp - Aantal fte's op 31
 ### Concepten:
 #### namespace nt15: <http://www.nltaxonomie.nl/rgs/nt15/rgs/20201117.b/dictionary/rekeningen>
 #### Grootboekschema aka rekeningstelseltr
-    vph:RekeningStelsel 
+    vph-fin:RekeningStelsel 
         rdfs:subClassOf ... ;
         rdfs:label "Rekeningstelsel"@nl ;
         rdfs:label "General ledger"@en ;
