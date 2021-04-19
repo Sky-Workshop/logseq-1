@@ -66,7 +66,7 @@ x9conc_total_24	qPersVvtSpecZorghlp_AantalFte	5118	Zorghulp - Aantal fte's op 31
         rdfs:subClassOf ... ;
         rdfs:label "Rekeningstelsel"@nl ;
         rdfs:label "General ledger"@en ;
-        skos:definition "General ledger system
+        skos:definition "General ledger system according governance
 #### Grootboekrekening 
     vph:GrootboekRekening 
         rdfs:subClassOf ... ;
