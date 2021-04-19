@@ -13,4 +13,4 @@ title: bespreken15april
 ## Uit voorzorg eigen namespace
 ## Meta data discussie vooral validatedDate
 ## Voorbeeld volgels, pinguin
-## Fabienne en ellen kampert voor conceptueel modellen voor iSatndaarden;  wanneer? Wij doen OWL
+## Fabienne Reniers en ellen kampert voor conceptueel modellen voor iSatndaarden;  wanneer? Wij doen OWL
