@@ -89,7 +89,7 @@ x9conc_total_24	qPersVvtSpecZorghlp_AantalFte	5118	Zorghulp - Aantal fte's op 31
         rdfs:subClassOf ... ;
         rdfs:label "Grootboekrekeningnummer"@nl ;
         rdfs:label "Ledger account number"@en .
-#### Stelt samen
+#### Rekening telt rekening samen
     vph:GrootboekRekeningNaam 
         rdfs:subClassOf ... ;
         rdfs:label "Grootboekrekeningnaam"@nl ;
