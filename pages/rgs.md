@@ -92,7 +92,7 @@ x9conc_total_24	qPersVvtSpecZorghlp_AantalFte	5118	Zorghulp - Aantal fte's op 31
 #### Rekening telt rekening samen
     vph:GrootboekRekeningNaam 
         rdfs:objectProperty ... ;
-        rdfs:label "Grootboekrekeningnaam"@nl ;
+        rdfs:label "Is deel van rekening"@nl ;
         rdfs:label "Ledger account name"@en ;
         nt15:steltRekeningSamen
 ####
