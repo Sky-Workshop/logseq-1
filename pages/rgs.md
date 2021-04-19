@@ -66,5 +66,4 @@ vph:GrootboekRekening
     rdfs:subClassOf ... ;
     rdfs:label "Grootboekrekening"@nl ;
     rdfs:label "Ledger account"@en .
-~
 #### Grootboekrekeningnaam
