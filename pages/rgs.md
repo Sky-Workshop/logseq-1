@@ -38,4 +38,4 @@ Gebruik van RGS zou dan dus invulling van optie 2 zijn.
 :todo: 1618840319004
 :END:
 ## Kleinere organisaties kunnen een micro status krijgen waarbij er andere verantwoordingsregels gelden.
-##
+## In DIGI
