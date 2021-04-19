@@ -39,4 +39,22 @@ Gebruik van RGS zou dan dus invulling van optie 2 zijn.
 :END:
 ## Kleinere organisaties kunnen een micro status krijgen waarbij er andere verantwoordingsregels gelden.
 ## In DigiMV
-##
+## Tabblad	Variable	Position	Label
+x9conc_total_1	Q_TypeVvtFinanciering_Ans_TypeVvtFinanciering#1	40	Indien Verpleging, verzorging en thuiszorg - financiering: Zvw en/of Wlz
+x9conc_total_1	Q_TypeVvtFinanciering_Ans_TypeVvtFinanciering#2	41	Indien Verpleging, verzorging en thuiszorg - financiering: Zorg gefinancierd uit de Jeugdwet
+x9conc_total_24	qPersVvtSpecOud_AantalPers	5103	Specialist ouderengeneeskunde/basisarts - Aantal werkzame personen op 31 december van verslagjaar
+x9conc_total_24	qPersVvtSpecOud_AantalFte	5104	Specialist ouderengeneeskunde/basisarts - Aantal fte's op 31 december van verslagjaar
+x9conc_total_24	qPersVvtSpecPsycho_AantalPers	5105	(GZ-)Psycholoog - Aantal werkzame personen op 31 december van verslagjaar
+x9conc_total_24	qPersVvtSpecPsycho_AantalFte	5106	(GZ-)Psycholoog - Aantal fte's op 31 december van verslagjaar
+x9conc_total_24	qPersVvtSpecVplSpec_AantalPers	5107	Verpleegkundig specialist - Aantal werkzame personen op 31 december van verslagjaar
+x9conc_total_24	qPersVvtSpecVplSpec_AantalFte	5108	Verpleegkundig specialist - Aantal fte's op 31 december van verslagjaar
+x9conc_total_24	qPersVvtSpecVplHbo_AantalPers	5109	Verpleegkundige hbo - Aantal werkzame personen op 31 december van verslagjaar
+x9conc_total_24	qPersVvtSpecVplHbo_AantalFte	5110	Verpleegkundige hbo - Aantal fte's op 31 december van verslagjaar
+x9conc_total_24	qPersVvtSpecVplMbo_AantalPers	5111	Verpleegkundige mbo - Aantal werkzame personen op 31 december van verslagjaar
+x9conc_total_24	qPersVvtSpecVplMbo_AantalFte	5112	Verpleegkundige mbo - Aantal fte's op 31 december van verslagjaar
+x9conc_total_24	qPersVvtSpecVzIG_AantalPers	5113	IG-Verzorgende - Aantal werkzame personen op 31 december van verslagjaar
+x9conc_total_24	qPersVvtSpecVzIG_AantalFte	5114	IG-Verzorgende - Aantal fte's op 31 december van verslagjaar
+x9conc_total_24	qPersVvtSpecVzHlp_AantalPers	5115	Verzorgende/helpende - Aantal werkzame personen op 31 december van verslagjaar
+x9conc_total_24	qPersVvtSpecVzHlp_AantalFte	5116	Verzorgende/helpende - Aantal fte's op 31 december van verslagjaar
+x9conc_total_24	qPersVvtSpecZorghlp_AantalPers	5117	Zorghulp - Aantal werkzame personen op 31 december van verslagjaar
+x9conc_total_24	qPersVvtSpecZorghlp_AantalFte	5118	Zorghulp - Aantal fte's op 31 december van verslagjaar
