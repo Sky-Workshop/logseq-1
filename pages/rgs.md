@@ -70,16 +70,16 @@ x9conc_total_24	qPersVvtSpecZorghlp_AantalFte	5118	Zorghulp - Aantal fte's op 31
         skos:definition "General ledger system according governance guidelines."@en
         skos:definition "Standaard rekening stelsel volgens rijksoverheid standaard."@nl
 #### Grootboekrekening 
-    nt15:LedgerAccount 
+    vph-fin:LedgerAccount 
         rdfs:subClassOf ... ;
         rdfs:label "Grootboekrekening"@nl ;
         rdfs:label "Ledger account"@en ;
         skos:note "Een grootboekrekening heeft een niets zeggende URI omdat zowel nummer, code als omschrijving kunnen veranderen. ; 
-        nt15:hasRGSCode nt15:RGSCode ;
-        nt15:steltRekeningSamen nt15:LedgerAccount ;
-        nt15:hasLedgerAccountNumber nt15:LedgerAccountNumber ;
-        nt15:hasLedgerAccountName nt15:LedgerAccountName ;
-        nt15:isPartOfgeneralLedger vph:RekeningStelsel .
+        vph-fin:hasRGSCode nt15:RGSCode ;
+        vph-fin:steltRekeningSamen nt15:LedgerAccount ;
+        vph-fin:hasLedgerAccountNumber nt15:LedgerAccountNumber ;
+        vph-fin:hasLedgerAccountName nt15:LedgerAccountName ;
+        vph-fin:isPartOfgeneralLedger vph:RekeningStelsel .
 #### RGS code
     nt15:RGSCode
         rdfs:subClassOf ... ;
