@@ -12,4 +12,5 @@ title: RGS
 ## rekeningen-ref.xsd bevat de rekeningnummers
 ## Pseudo code om van xml naar rdf te komen:
 - lees rekeningen-ref.xml ref:Number b.v. 0101010.01
-- haal label op via xlink:label="rgs-i_BIvaKouVvpBeg_ref" uit rekeningngen-ref.
+- haal label op via xlink:label="rgs-i_BIvaKouVvpBeg_ref" uit rekeningngen-ref.xsd
+-
