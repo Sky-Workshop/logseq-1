@@ -72,7 +72,7 @@ x9conc_total_24	qPersVvtSpecZorghlp_AantalFte	5118	Zorghulp - Aantal fte's op 31
         rdfs:label "Grootboekrekening"@nl ;
         rdfs:label "Ledger account"@en .
 #### RGS code
-    nt15:
+    nt15:RGSCode
 #### Grootboekrekeningnaam
     vph:GrootboekRekeningNaam 
         rdfs:subClassOf ... ;
