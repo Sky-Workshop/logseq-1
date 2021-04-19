@@ -74,6 +74,7 @@ x9conc_total_24	qPersVvtSpecZorghlp_AantalFte	5118	Zorghulp - Aantal fte's op 31
 #### RGS code
     nt15:RGSCode
         rdfs:subClassOf ... ;
+        rdfs:label "RGS code"@nl ;
 #### Grootboekrekeningnaam
     vph:GrootboekRekeningNaam 
         rdfs:subClassOf ... ;
