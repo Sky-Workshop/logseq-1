@@ -63,8 +63,8 @@ x9conc_total_24	qPersVvtSpecZorghlp_AantalFte	5118	Zorghulp - Aantal fte's op 31
 #### Grootboekschema aka rekeningstelsel
     vph:RekeningStelsel 
         rdfs:subClassOf ... ;
-        rdfs:label "Grootboekrekening"@nl ;
-        rdfs:label "Ledger account"@en .
+        rdfs:label "Rekeningstelsel"@nl ;
+        rdfs:label "General ledger"@en .
 #### Grootboekrekening 
     vph:GrootboekRekening 
         rdfs:subClassOf ... ;
