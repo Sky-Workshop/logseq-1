@@ -8,6 +8,6 @@ title: RGS
 - rgs:EntryPoint
 - rgs:
 ## rekeningen-lab-nl.xml bevat rekening labels
-## rekeningen.xsd bevat de rekeningnummers
+## rekeningen.xml bevat de rekeningnummers
 ## rekeningen-ref.xsd bevat de rekeningnummers
 ##
