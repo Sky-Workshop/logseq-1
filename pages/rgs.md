@@ -100,7 +100,7 @@ x9conc_total_24	qPersVvtSpecZorghlp_AantalFte	5118	Zorghulp - Aantal fte's op 31
         rdfs:label "Is deel van rekening"@nl ;
         rdfs:label "Comprises ledger account"@en ;
         rdfs:domain
-#### nt15:steltRekeningSamen 
+#### nt15:hasLedgerAccountNumber 
         rdfs:subPropertyOf ... ; 
         rdfs:label "Is deel van rekening"@nl ;
         rdfs:label "Comprises ledger account"@en ;
