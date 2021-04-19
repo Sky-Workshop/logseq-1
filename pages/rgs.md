@@ -14,7 +14,7 @@ title: RGS
 ## rekeningen-lab-nl.xml bevat rekening labels
 ## rekeningen.xml bevat de rekeningnummers
 ## rekeningen-ref.xsd bevat de rekeningnummers
-## Rekening nummers zijn of 99 of 9999999
+## Rekening nummers zijn of 99 of 9999999 of 9999999.99
 ## Pseudo code om van xml naar rdf te komen:
 - lees uit rekeningen-ref.xml relaties tussen rekening nummer en label via link:referenceArc xlink:type="arc"
 - lees uit deze relatie ref:Number b.v. 0101010.01
