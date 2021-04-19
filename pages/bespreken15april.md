@@ -7,7 +7,7 @@ title: bespreken15april
 - UFO-S
 - FIBO
 ## Meerdere upper ontologieën, is dat een gevaar?
-## Qualityregions is policy, Roxanne stuurt.
+## Qualityregions is policy, Roxanne stuurt voorbeelden
 ## Onderscheid inhoud en document
 ## VPH gaat opgesplitst worden
 ## Uit voorzorg eigen namespace
