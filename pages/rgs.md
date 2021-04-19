@@ -37,4 +37,4 @@ Gebruik van RGS zou dan dus invulling van optie 2 zijn.
 :PROPERTIES:
 :todo: 1618840319004
 :END:
-##
+## Kleinere organisaties
