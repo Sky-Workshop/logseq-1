@@ -39,3 +39,4 @@ Gebruik van RGS zou dan dus invulling van optie 2 zijn.
 :END:
 ## Kleinere organisaties kunnen een micro status krijgen waarbij er andere verantwoordingsregels gelden.
 ## In DigiMV
+##
