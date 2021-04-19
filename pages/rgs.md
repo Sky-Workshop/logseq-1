@@ -37,7 +37,7 @@ Gebruik van RGS zou dan dus invulling van optie 2 zijn.
 :PROPERTIES:
 :todo: 1618840319004
 :END:
-## Kleinere organisaties kunnen een micro status krijgen waarbij er andere verantwoordingsregels gelden. In
+## Kleinere organisaties kunnen een micro status krijgen waarbij er andere verantwoordingsregels gelden. In VPH/KIK moet dus deze status midelleer
 ## In DigiMV
 ## Tabblad	Variable	Position	Label
 x9conc_total_1	Q_TypeVvtFinanciering_Ans_TypeVvtFinanciering#1	40	Indien Verpleging, verzorging en thuiszorg - financiering: Zvw en/of Wlz
