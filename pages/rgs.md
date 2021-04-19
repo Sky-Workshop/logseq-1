@@ -62,7 +62,7 @@ x9conc_total_24	qPersVvtSpecZorghlp_AantalFte	5118	Zorghulp - Aantal fte's op 31
 ### Concepten:
 #### Grootboekschema aka rekeningstelsel
 #### Grootboekrekening 
-vph:GrootboekRekening 
+ vph:GrootboekRekening 
     rdfs:subClassOf ... ;
     rdfs:label "Grootboekrekening"@nl ;
     rdfs:label "Ledger account"@en .
