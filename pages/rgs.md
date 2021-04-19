@@ -3,7 +3,7 @@ title: RGS
 ---
 
 ## Vraag van Marc om voor Tijn de concepten rekening schema, rubriek, rekening in VPH op te nemen:
-- RGS maar gebruik van RGS-code
+- RGS maar gebruik van RGS-code, b.v. 
 - Het lijkt dat RGS geen concept voor rubriek kent. 
 - RGS maakt onderscheid tussen de rekeningen structuur en de presentatie die gebruik maakt van een relatie en een volgorde nummer.
 ## Representatie is niet belangrijk; dit zou ook het probleem van het weergeven van een tabel openbaren.
