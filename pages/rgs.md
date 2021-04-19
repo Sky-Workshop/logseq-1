@@ -10,4 +10,5 @@ title: RGS
 ## rekeningen-lab-nl.xml bevat rekening labels
 ## rekeningen.xml bevat de rekeningnummers
 ## rekeningen-ref.xsd bevat de rekeningnummers
-## Pseudo code om van
+## Pseudo code om van xml naar rdf te komen:
+- lees rekeningen
