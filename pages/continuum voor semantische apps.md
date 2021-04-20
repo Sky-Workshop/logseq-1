@@ -2,7 +2,7 @@
 title: Continuum voor semantische apps
 ---
 
-## Apps staat voor inforiamtie systemen
+## Apps staat voor informatie systemen
 ## Welke uitersten zijn er?
 - Excel met eenvoudige tabel.
 - 
