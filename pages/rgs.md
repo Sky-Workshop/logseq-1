@@ -64,7 +64,10 @@ x9conc_total_24	qPersVvtSpecVzHlp_AantalFte	5116	Verzorgende/helpende - Aantal f
 x9conc_total_24	qPersVvtSpecZorghlp_AantalPers	5117	Zorghulp - Aantal werkzame personen op 31 december van verslagjaar
 x9conc_total_24	qPersVvtSpecZorghlp_AantalFte	5118	Zorghulp - Aantal fte's op 31 december van verslagjaar
 ## In TBC zijn fibo-all-shape opgenomen Hoe kunnen deze gebruikt worden.
-## Modelleer keuzes:
+## DOING Modelleer keuzes:
+:PROPERTIES:
+:doing: 1618919307436
+:END:
 ### Concepten:
 #### namespace nt15: <http://www.nltaxonomie.nl/rgs/nt15/rgs/20201117.b/dictionary/rekeningen>
 #### Grootboekschema aka rekeningstelseltr
