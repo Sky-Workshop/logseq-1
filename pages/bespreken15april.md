@@ -16,4 +16,4 @@ title: bespreken15april
 ## Uit voorzorg eigen namespace
 ## Meta data discussie vooral validatedDate
 ## Voorbeeld volgels, pinguin
-## Fabien en elly kampert voor conceptueel modellen voor iSatndaarden;  wanneer? Wij doen OWL
+## Fabien en Elly Kampert voor conceptueel modellen voor iStandaarden;  wanneer? Wij doen OWL
