@@ -37,8 +37,9 @@ title: RGS
     1. u gebruikt een modeljaarrekening van het CIBG; https://www.jaarverantwoordingzorg.nl/?utm_source=jaarverslagenzorg.nl&utm_medium=redirect&utm_campaign=redirect
     2. u gebruikt een eigen model jaarrekening of dat van uw administratiekantoor of accountantskantoor.
 Gebruik van RGS zou dan dus invulling van optie 2 zijn.
-## TODO Is er een verschil in financiële verslaglegging naar openbare bronnen en naar b.v. NzA? Dit kan zo zijn en moet dus gemodelleerd worden. We kennen dus de openbare jaarverantwoording en de aanvrager specifieke jaarverantwoording. Ik vermoed dat financiële cijfers nooit openbaar zijn.
+## DOING Is er een verschil in financiële verslaglegging naar openbare bronnen en naar b.v. NzA? Dit kan zo zijn en moet dus gemodelleerd worden. We kennen dus de openbare jaarverantwoording en de aanvrager specifieke jaarverantwoording. Ik vermoed dat financiële cijfers nooit openbaar zijn.
 :PROPERTIES:
+:doing: 1618919293427
 :todo: 1618840319004
 :END:
 ## Kleinere organisaties kunnen een micro status krijgen waarbij er andere verantwoordingsregels gelden. In VPH/KIK moet dus deze status gemodelleerd worden.
