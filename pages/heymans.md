@@ -4,7 +4,7 @@ title: Heymans
 
 ## Eisen boom; lijkt op mereologie. Is een "Requirement Breakdown Structure".
 ## Voorbereiding:
-### Open otl2 app
+### Open otl2 app en login met
 ### Open data graph : Planning data demo1
 ## Demo app
 ### Toon architectuur EDG / Macomi / App
