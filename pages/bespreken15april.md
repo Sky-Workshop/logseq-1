@@ -10,7 +10,7 @@ title: bespreken15april
 :PROPERTIES:
 :todo: 1618920482771
 :END:
-## Qualityregions is policy, Roxanne stuurt.
+## Qualityregions is policy, Roxanne heeft voorbeelden gestuurd.
 ## Onderscheid inhoud en document
 ## VPH gaat opgesplitst worden
 ## Uit voorzorg eigen namespace
