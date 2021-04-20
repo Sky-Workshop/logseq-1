@@ -9,4 +9,5 @@ title: Heymans
 ## Demo app
 ### Toon architectuur EDG / Macomi / App
 ### Status Beukersluis
-### Geplande inspecties
+### Benodigde inspecties
+###
