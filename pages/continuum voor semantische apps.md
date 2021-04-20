@@ -4,4 +4,4 @@ title: Continuum voor semantische apps
 
 ## Welke uitersten zijn er?
 - excel met eenvoudige tabel
-- Upper ontology Ontologie
+- Upper ontology based
