@@ -6,7 +6,7 @@ title: bespreken15april
 - ORG   > Roxanne checkt dit
 - UFO-S   > onduidelijk
 - FIBO   > Deels
-## Meerdere upper ontologieën, is dat een gevaar? Nee, niet indien er en nieuwe domein ontologie wordt gemaakt. Wel indien er interoperabiliteit met andere zorg domeinen gezocht moet gaan worden.
+## Meerdere upper ontologieën, is dat een gevaar? Nee, niet indien er en nieuwe domein ontologie wordt gemaakt. Wel indien er interoperabiliteit met andere zorg domeinen gezocht moet gaan worden. De scope van ZiN
 ## Qualityregions is policy, Roxanne stuurt.
 ## Onderscheid inhoud en document
 ## VPH gaat opgesplitst worden
