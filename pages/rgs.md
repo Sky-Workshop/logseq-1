@@ -108,4 +108,4 @@ x9conc_total_24	qPersVvtSpecZorghlp_AantalFte	5118	Zorghulp - Aantal fte's op 31
         rdfs:label "Is deel van rekening"@nl ;
         rdfs:label "Comprises ledger account"@en ;
         rdfs:domain
-## Exact heeft een beperkt
+## [[Exact]] heeft een beperkt aantal financiële rapporten. Deze zijn de basis van de ontologie die de financiele huishouding becshrijft.
