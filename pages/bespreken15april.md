@@ -6,7 +6,7 @@ title: bespreken15april
 - ORG   > Roxanne checkt dit
 - UFO-S   > onduidelijk
 - FIBO   > Deels
-## Meerdere upper ontologieën, is dat een gevaar?
+## Meerdere upper ontologieën, is dat een gevaar? Nee
 ## Qualityregions is policy, Roxanne stuurt.
 ## Onderscheid inhoud en document
 ## VPH gaat opgesplitst worden
