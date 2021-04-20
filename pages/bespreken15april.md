@@ -11,7 +11,7 @@ title: bespreken15april
 :todo: 1618920482771
 :END:
 ## Qualityregions is [[Design policy]], Roxanne heeft voorbeelden gestuurd.
-## Onderscheid inhoud en document
+## Onderscheid inhoud en document moet in ontologie.
 ## VPH gaat opgesplitst worden
 ## Uit voorzorg eigen namespace
 ## Meta data discussie vooral validatedDate
