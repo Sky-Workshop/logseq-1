@@ -8,7 +8,7 @@ title: Heymans
 ### Open data graph : Planning data demo1
 ## Demo app
 ### Toon architectuur EDG / Macomi / App
-### Status Beukersluis
+### Status Beukersluis (in )
 ### Benodigde inspecties
 ### Na Macomi run onstaat een planning data
 ###
