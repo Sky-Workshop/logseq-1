@@ -3,7 +3,7 @@ title: Exact
 ---
 
 ## Exact heeft de volgende financiële rapporten:
-- Rekeningen per kostendrager
+- Rekeningen per [[kostendrager]]
    U kunt pas een boeking in een kostendrager maken als u een kostendragerrekening hebt geselecteerd. De rekeningen die worden gebruikt voor boekingen op kostendragers, worden gerangschikt naar kostendrager. Per kostendrager kunt u de kostendragerrekeningen zien die oorspronkelijk werden gebruikt om boekingen in de desbetreffende kostendrager te maken. Alleen periodetotalen worden weergegeven.
 - Kostendragers per rekening
    In dit overzicht worden de kostendragers gerangschikt naar de kostendragerrekeningen die worden gebruikt om de boeking te maken. Bij elke kostendragerrekening worden de aan kostendragers doorberekende bedragen getoond. Alleen [[periodetotalen]] worden weergegeven.
