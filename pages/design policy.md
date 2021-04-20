@@ -9,5 +9,5 @@ title: Design policy
 |tier 1|tier 2|tier 3|
 |VVT|Bedrijfsvoering|VPH|
 ||Zorgverlening|Thuiszorg|
-||
+||Veiligheid|
 ##
