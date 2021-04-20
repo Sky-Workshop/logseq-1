@@ -3,7 +3,7 @@ title: test
 ---
 
 ## A een A
-## [#A] een A duidt een belangrijk issue aan. B en [C] zijn minder belangrijk
+## [#A] een A duidt een belangrijk issue aan. B en [#C] zijn minder belangrijk
 ## WAITING Roxanne checkt UFO-S
 :PROPERTIES:
 :waiting: 1618919802209
