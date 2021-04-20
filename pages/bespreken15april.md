@@ -4,7 +4,7 @@ title: bespreken15april
 
 ## Zijn er andere vocabulaires die gebruikt kunnen worden? b.v.
 - ORG
-- UFO-S   >
+- UFO-S   >onduidelijk, Roxanne checkt
 - FIBO   > Deels
 ## Meerdere upper ontologieën, is dat een gevaar?
 ## Qualityregions is policy, Roxanne stuurt.
