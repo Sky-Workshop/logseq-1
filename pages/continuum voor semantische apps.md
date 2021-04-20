@@ -3,5 +3,5 @@ title: Continuum voor semantische apps
 ---
 
 ## Welke uitersten zijn er?
-- excel met eenvoudige tabel
-- Upper ontology based gegenereerde applicatie
+- excel met eenvoudige tabel.
+- Upper ontology based gegenereerde applicatie.
