@@ -7,7 +7,7 @@ title: Jena
 - RDFS rule reasoner: Implements a configurable subset of the RDFS entailments.
 - OWL, OWL Mini, OWL Micro Reasoners: A set of useful but incomplete implementation of the OWL/Lite subset of the OWL/Full language.
 - Generic rule reasoner: A rule based reasoner that supports user defined rules. Forward chaining, tabled backward chaining and hybrid execution strategies are supported.
-## TODO Hoe gaan we gebruik maken van reasoning? #reasoning Dit is een uiting van de balans tussen kennismodel en 
+## TODO Hoe gaan we gebruik maken van reasoning? #reasoning Dit is een uiting van de balans tussen kennismodel en applicatie.
 :PROPERTIES:
 :todo: 1618920735429
 :END:
