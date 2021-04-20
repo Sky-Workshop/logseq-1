@@ -15,6 +15,5 @@ title: KIK-V
 |Afscheiding|VPH|rest|
 |-|-|-|
 |VVT|VPH|TZ|
-|-|-|-|
 |Zorg markt|VPH|Verzekeraars en Consumenten|
 |Branches|VVT|ziekehuizen, ggz jeugd enz [[Onderverdeling [[Zorg]]]] |
