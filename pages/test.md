@@ -4,7 +4,7 @@ title: test
 
 ## A een A
 ## [#A] een A
-## [#C] is een lage prio
+## \c is een lage prio
 ## WAITING Roxanne checkt UFO-S
 :PROPERTIES:
 :waiting: 1618919802209
