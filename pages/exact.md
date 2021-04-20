@@ -15,4 +15,5 @@ title: Exact
    Dit overzicht laat de verschillende saldi op een kostendrager zien (debet, credit, budget, balanstotaal).
 - Verdichtingen per kostendrager
    Dit overzicht bevat jaartotalen gerangschikt per kostendrager en verdichting.
-## [Finance: Grootboek, Kostendragers, Kostendragerbalansen*] - Deze balans ziet er uit als een normale balans, maar bevat alleen bedragen die zijn doorberekend aan de geselecteerde kostendrager. -Het totaal van alle kostendragermutaties is niet noodzakelijk gelijk aan dat van de totaalbalans, omdat niet alle mutaties zijn doorberekend aan kostendragers. Niet elke winst-en-verliesrekening is bijvoorbeeld ook een kostendragerrekening.
+## [Finance: Grootboek, Kostendragers, Kostendragerbalansen*] 
+Deze balans ziet er uit als een normale balans, maar bevat alleen bedragen die zijn doorberekend aan de geselecteerde kostendrager. -Het totaal van alle kostendragermutaties is niet noodzakelijk gelijk aan dat van de totaalbalans, omdat niet alle mutaties zijn doorberekend aan kostendragers. Niet elke winst-en-verliesrekening is bijvoorbeeld ook een kostendragerrekening.
