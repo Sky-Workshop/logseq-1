@@ -7,5 +7,5 @@ title: Design policy
   has/is<prop> is een DataProperty
 ## Ontologie structuur
 |VVT|Bedrifsvoering|VPH|
-||Zorgverlening
+||Zorgverlening|
 ##
