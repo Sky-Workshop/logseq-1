@@ -7,6 +7,6 @@ title: Design policy
   has/is<prop> is een DataProperty
 ## Ontologie structuur
 |tier 1|tier 2|tier 3|
-|VVT|Bedrifsvoering|VPH|
+|VVT|Bedrijfsvoering|VPH|
 ||Zorgverlening|Thuiszorg|
 ##
