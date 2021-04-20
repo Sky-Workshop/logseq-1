@@ -12,7 +12,7 @@ title: bespreken15april
 :END:
 ## Qualityregions is [[Design policy]], Roxanne heeft voorbeelden gestuurd.
 ## Onderscheid inhoud en document moet in ontologie.
-## VPH gaat opgesplitst worden
+## VPH gaat opgesplitst worden is onderdeel van [[Design policy]]
 ## Uit voorzorg eigen namespace
 ## Meta data discussie vooral validatedDate
 ## Voorbeeld volgels, pinguin
