@@ -2,10 +2,7 @@
 title: RGS
 ---
 
-## DOING Vraag van Marc om voor Tijn de concepten rekening schema, rubriek, rekening in VPH op te nemen:
-:PROPERTIES:
-:doing: 1618919254794
-:END:
+## Vraag van Marc om voor Tijn de concepten rekening schema, rubriek, rekening in VPH op te nemen:
 - RGS maar gebruik van RGS-code voor xlink waardes, b.v. rgs-i_BIva_loc. Deze begin kennelijk altijd met rgs-i_ ; derhalve rgs-i_<code>
 - rgs-i_<code>_loc is een locator (verwijzing naar een externe file)
 - RGS kent een role met een roleURI naar b.v. kvk, bzk en frc
@@ -28,18 +25,16 @@ title: RGS
 - haal label op via xlink:label="rgs-i_BIvaKouVvpBeg_ref" uit rekeningngen-ref.xsd
 ## Daarnaast zijn twee role’s toegevoegd voor de definitie van respectievelijk de RGS-code (from_dts) en een concept uit een entrypoint (to_dts). DTS is een XBRL concept en staat voor Discoverable Taxonomy Set.
 ## Software die RGS aan kan staat op [rgsready.nl](https://www.softwarepakketten.nl/cmm/swp/raadplegen_eigenschappen_kort.php?slt=72&bronw=1). De essentie is dat RGS codes gebruikt worden.
-## DOING Welke RGS-codes zijn relevant voor ZiN?
+## TODO Welke RGS-codes zijn relevant voor ZiN?
 :PROPERTIES:
-:doing: 1618919282886
 :todo: 1618836432084
 :END:
 ## Uit het handboek informatie zorgverzekeringswet (Zvw) :U kunt de jaarrekening op 2 manieren opstellen:
     1. u gebruikt een modeljaarrekening van het CIBG; https://www.jaarverantwoordingzorg.nl/?utm_source=jaarverslagenzorg.nl&utm_medium=redirect&utm_campaign=redirect
     2. u gebruikt een eigen model jaarrekening of dat van uw administratiekantoor of accountantskantoor.
 Gebruik van RGS zou dan dus invulling van optie 2 zijn.
-## DOING Is er een verschil in financiële verslaglegging naar openbare bronnen en naar b.v. NzA? Dit kan zo zijn en moet dus gemodelleerd worden. We kennen dus de openbare jaarverantwoording en de aanvrager specifieke jaarverantwoording. Ik vermoed dat financiële cijfers nooit openbaar zijn.
+## TODO Is er een verschil in financiële verslaglegging naar openbare bronnen en naar b.v. NzA? Dit kan zo zijn en moet dus gemodelleerd worden. We kennen dus de openbare jaarverantwoording en de aanvrager specifieke jaarverantwoording. Ik vermoed dat financiële cijfers nooit openbaar zijn.
 :PROPERTIES:
-:doing: 1618919293427
 :todo: 1618840319004
 :END:
 ## Kleinere organisaties kunnen een micro status krijgen waarbij er andere verantwoordingsregels gelden. In VPH/KIK moet dus deze status gemodelleerd worden.
@@ -64,10 +59,7 @@ x9conc_total_24	qPersVvtSpecVzHlp_AantalFte	5116	Verzorgende/helpende - Aantal f
 x9conc_total_24	qPersVvtSpecZorghlp_AantalPers	5117	Zorghulp - Aantal werkzame personen op 31 december van verslagjaar
 x9conc_total_24	qPersVvtSpecZorghlp_AantalFte	5118	Zorghulp - Aantal fte's op 31 december van verslagjaar
 ## In TBC zijn fibo-all-shape opgenomen Hoe kunnen deze gebruikt worden.
-## DOING Modelleer keuzes:
-:PROPERTIES:
-:doing: 1618919307436
-:END:
+## Modelleer keuzes:
 ### Concepten:
 #### namespace nt15: <http://www.nltaxonomie.nl/rgs/nt15/rgs/20201117.b/dictionary/rekeningen>
 #### Grootboekschema aka rekeningstelseltr
@@ -116,3 +108,4 @@ x9conc_total_24	qPersVvtSpecZorghlp_AantalFte	5118	Zorghulp - Aantal fte's op 31
         rdfs:label "Is deel van rekening"@nl ;
         rdfs:label "Comprises ledger account"@en ;
         rdfs:domain
+##
