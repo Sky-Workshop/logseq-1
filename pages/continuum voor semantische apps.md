@@ -3,7 +3,7 @@ title: Continuum voor semantische apps
 ---
 
 ## Apps staat voor informatie systemen
-## Semantische
+## Semantische onderbouwing is geen garantie voor succe
 ## Welke uitersten zijn er?
 - Excel met eenvoudige tabel.
 - 
