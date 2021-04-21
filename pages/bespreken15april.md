@@ -7,7 +7,7 @@ title: bespreken15april
 - UFO-S
 - FIBO (Delen op het laagste niveau , b.v. saldo op een rekening)
 ## Meerdere upper ontologieën, is dat een gevaar?
-## TODO Qualityregions is policy, Roxanne stuurt voorbeeld. Is mij nog niet duidelijk en wil dit verder uitwerken incl de impact op queries.
+## TODO Qualityregions is policy, Roxanne stuurt voorbeeld. Is mij nog niet duidelijk en wil dit verder uitwerken incl de impact op queries. Gaan we dit ook gebruiken bij bekende eenheden zoals euro's?
 :PROPERTIES:
 :todo: 1619002642180
 :END:
