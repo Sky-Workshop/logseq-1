@@ -4,7 +4,7 @@ title: vph-fin:
 
 ## Dit is een voorbeeld pagina van namespace definitie.
 ## de : wordt in de pagina naam door _ vervangen
-## TODO Mag een property een domein uit een andere ontologie hebben? Dit moet wel kunnen omdat
+## TODO Mag een property een domein uit een andere ontologie hebben? Dit moet wel kunnen omdat anders alleen voor dit doel klassen gemaakt zullen gaan worden. Het onderverdelen tussen personele samenstelling en bedrijfsvoering
 :PROPERTIES:
 :todo: 1618992461833
 :END:
