@@ -15,9 +15,9 @@ title: vph-fin:
 ## Het convenant onderscheid [[kwaliteit]] en [[bedrijfsvoering]]. Welke concepten vallen hieronder? De huidige ontwikkelde indicatoren gaan over basisveiligheid en personeelssamenstelling. 
 Basisveiligheid gerelateerde concepten zijn : decubitus, advance care planning, medicatieveiligheid, vrijheidsbeperking, continentie en voeding.
 Voorstel:
-Zorg: primair proces van zorgverlening
-Veiligheid: client welzijn beinvloedende concepten zoals decubitus en voeding
-Personeel: personeelssamenstelling en ontwikkeling
+Zorg: primair proces van zorgverlening. Dit levert vph-zorg
+Veiligheid: client welzijn beinvloedende concepten zoals decubitus en voeding. vph-veiligh
+Personeel: personeelssamenstelling en ontwikkeling. Dit wordt vph-pers.
 Bedrijfsvoering: Ondersteunende concepten, vult randvoorwaarden in. 
 In de kik ontologie zitten voornamelijk personeel en dus zorg en personeelssamenstelling gerelateerde concepten. kik zou dus opgesplitst kunnen worden naar vph-pers en vph-veiligh #bespreken15april
 ## vph-fin kan beter vph-bedr genoemd kunnen worden. Later kan blijken dat opsplitsing verder zit heeft. #bespreken15april
