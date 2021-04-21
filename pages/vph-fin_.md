@@ -28,4 +28,4 @@ In de kik ontologie zitten voornamelijk personeel en dus zorg en personeelssamen
 :PROPERTIES:
 :todo: 1619004013478
 :END:
-## financieringstekort komt niet voor in RGS. Hoe kan dit dan wel
+## Financieringstekort komt niet voor in RGS. Hoe kan dit dan wel
