@@ -15,7 +15,7 @@ title: bespreken15april
 :PROPERTIES:
 :done: 1619002674781
 :END:
-## DOING VPH gaat opgesplitst worden
+## DOING VPH gaat opgesplitst worden. Zie [[vph-fin:]] .
 :PROPERTIES:
 :doing: 1619002678791
 :END:
