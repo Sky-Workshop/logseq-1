@@ -12,7 +12,8 @@ title: vph-fin:
 :PROPERTIES:
 :todo: 1618995703970
 :END:
-## Het convenant onderscheid [[kwaliteit]] en [[bedrijfsvoering]]. Welke concepten vallen hieronder? Voorstel:
+## Het convenant onderscheid [[kwaliteit]] en [[bedrijfsvoering]]. Welke concepten vallen hieronder? 
+Voorstel:
 Zorg: primair proces en kwaliteits indicator gerelateerde concepten
 Bedrijfsvoering: Ondersteunende concepten, vult randvoorwaarden in. Het primair proces wordt voornamelijk door personeel vormgegeven, daarom zijn alle personeel gerelateerde concepten zorg gerelateerd. 
 In de kik ontologie zitten voornamelijk personeel en dus zorg gerelateerde concepten. kik zou dus hernoemd kunnen worden naar vph-zorg. #bespreken15april
