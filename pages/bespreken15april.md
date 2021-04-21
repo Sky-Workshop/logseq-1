@@ -3,17 +3,23 @@ title: bespreken15april
 ---
 
 ## Zijn er andere vocabulaires die gebruikt kunnen worden? b.v.
-- ORG   > Roxanne checkt dit
-- UFO-S   > onduidelijk
-- FIBO   > Deels
-## TODO Meerdere upper ontologieën, is dat een gevaar? Nee, niet indien er en nieuwe domein ontologie wordt gemaakt. Wel indien er interoperabiliteit met andere zorg domeinen gezocht moet gaan worden. De scope van ZiN is nu verpleeghuizen VTT. Hoe zouden we dit gaan invullen naar ziekenhuizen?
+- ORG
+- UFO-S
+- FIBO
+## Meerdere upper ontologieën, is dat een gevaar?
+## TODO Qualityregions is policy, Roxanne stuurt voorbeeld. Is mij nog niet duidelijk en wil dit verder uitwerken incl de impact op queries.
 :PROPERTIES:
-:todo: 1618920482771
+:todo: 1619002642180
 :END:
-## Qualityregions is [[Design policy]], Roxanne heeft voorbeelden gestuurd.
-## Onderscheid inhoud en document moet in ontologie.
-## VPH gaat opgesplitst worden is onderdeel van [[Design policy]]
+## DONE Onderscheid inhoud en document
+:PROPERTIES:
+:done: 1619002674781
+:END:
+## DOING VPH gaat opgesplitst worden
+:PROPERTIES:
+:doing: 1619002678791
+:END:
 ## Uit voorzorg eigen namespace
 ## Meta data discussie vooral validatedDate
 ## Voorbeeld volgels, pinguin
-## Fabien en Elly Kampert voor conceptueel modellen voor iStandaarden;  wanneer? Wij doen OWL
+## Fabienne en ellen kampert voor conceptueel modellen voor iSatndaarden;  wanneer? Wij doen OWL
