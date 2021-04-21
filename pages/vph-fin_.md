@@ -28,7 +28,7 @@ In de kik ontologie zitten voornamelijk personeel en dus zorg en personeelssamen
 :PROPERTIES:
 :todo: 1619004013478
 :END:
-## DOING Financieringstekort komt niet voor in RGS. Hoe kan dit dan wel in vph opgenomen worden? Kan een definitie zaak zijn. Ook de DBO post "Investeringen in materiële vaste bedrijfsactiva..."  is niet eenduidig 
+## DOING Financieringstekort komt niet voor in RGS. Hoe kan dit dan wel in vph opgenomen worden? Kan een definitie zaak zijn. Ook de DBO post "Investeringen in materiële vaste bedrijfsactiva..."  is niet eenduidig in RSG te vinden en zal dus besproken moeten worden tussen de aanvrager en de aanbieder.
 :PROPERTIES:
 :doing: 1619007707587
 :END:
