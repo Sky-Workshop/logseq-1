@@ -13,7 +13,7 @@ title: vph-fin:
 :todo: 1618995703970
 :END:
 ## Het convenant onderscheid [[kwaliteit]] en [[bedrijfsvoering]]. Welke concepten vallen hieronder? De huidige ontwikkelde indicatoren gaan over basisveiligheid en personeelssamenstelling. 
-Basisveiligheid gerelateerde concepten zijn : decubitus, advance care planning, medicatieveiligheid, 
+Basisveiligheid gerelateerde concepten zijn : decubitus, advance care planning, medicatieveiligheid, vrijheidsbeperking
 Voorstel:
 Zorg: primair proces en kwaliteits indicator gerelateerde concepten
 Bedrijfsvoering: Ondersteunende concepten, vult randvoorwaarden in. Het primair proces wordt voornamelijk door personeel vormgegeven, daarom zijn alle personeel gerelateerde concepten zorg gerelateerd. 
