@@ -3,7 +3,7 @@ title: bespreken15april
 ---
 
 ## Zijn er andere vocabulaires die gebruikt kunnen worden? b.v.
-- ORG
+- ORG  (Roxanne kijkt hiernaar)
 - UFO-S
 - FIBO
 ## Meerdere upper ontologieën, is dat een gevaar?
