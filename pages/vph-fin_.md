@@ -12,4 +12,4 @@ title: vph-fin:
 :PROPERTIES:
 :todo: 1618995703970
 :END:
-## Het convenant onderscheid kwaliteit en bedrijfsvoering. Welke concepten vallen hieronder?
+## Het convenant onderscheid [[kwaliteit]] en [[bedrijfsvoering]]. Welke concepten vallen hieronder?
