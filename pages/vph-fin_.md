@@ -14,5 +14,6 @@ title: vph-fin:
 :END:
 ## Het convenant onderscheid [[kwaliteit]] en [[bedrijfsvoering]]. Welke concepten vallen hieronder? Voorstel:
 Zorg: primair proces en kwaliteits indicator gerelateerde concepten
-Bedrijfsvoering: Ondersteunende concepten, vult randvoorwaarden in.
+Bedrijfsvoering: Ondersteunende concepten, vult randvoorwaarden in. Het primair proces wordt voornamelijk door personeel vormgegeven, daarom zijn alle personeel gerelateerde concepten zorg gerelateerd.
+##
 ##
