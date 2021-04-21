@@ -32,7 +32,7 @@ In de kik ontologie zitten voornamelijk personeel en dus zorg en personeelssamen
 :PROPERTIES:
 :doing: 1619007707587
 :END:
-## TODO Hoe de datum of boekjaar geregistreerd wordt is afhankelijk van de manier van administreren van de aanbieder. De ontologie moet dus meerdere manieren omvatten. Voorkeur heeft om deze mogelijke periode gebruik vooraf de modelleren.
+## TODO Hoe de datum of boekjaar geregistreerd wordt is afhankelijk van de manier van administreren van de aanbieder. De ontologie moet dus meerdere manieren omvatten. Voorkeur heeft om deze mogelijke periode gebruik vooraf de modelleren. Dan kan een 
 :PROPERTIES:
 :todo: 1619017959744
 :END:
