@@ -19,6 +19,6 @@ Zorg: primair proces van zorgverlening
 Veiligheid: client welzijn beinvloedende concepten zoals decubitus en voeding
 Personeel: personeelssamenstelling en ontwikkeling
 Bedrijfsvoering: Ondersteunende concepten, vult randvoorwaarden in. 
-In de kik ontologie zitten voornamelijk personeel en dus zorg en personeelssamenstelling gerelateerde concepten. kik zou dus opgesplitst kunnen worden naar vph-pers en vph-veilg #bespreken15april
+In de kik ontologie zitten voornamelijk personeel en dus zorg en personeelssamenstelling gerelateerde concepten. kik zou dus opgesplitst kunnen worden naar vph-pers en vph-veiligh #bespreken15april
 ## vph-fin kan beter vph-bedr genoemd kunnen worden. Later kan blijken dat opsplitsing verder zit heeft. #bespreken15april
 ##
