@@ -17,6 +17,7 @@ Basisveiligheid gerelateerde concepten zijn : decubitus, advance care planning, 
 Voorstel:
 Zorg: primair proces van zorgverlening
 Veiligheid: client welzijn beinvloedende concepten zoals decubitus en voeding
+Personeel: personeelssamenstelling en ontwikkeling
 Bedrijfsvoering: Ondersteunende concepten, vult randvoorwaarden in. Het primair proces wordt voornamelijk door personeel vormgegeven, daarom zijn alle personeel gerelateerde concepten zorg gerelateerd. 
 In de kik ontologie zitten voornamelijk personeel en dus zorg gerelateerde concepten. kik zou dus hernoemd kunnen worden naar vph-zorg. #bespreken15april
 ## vph-fin kan beter vph-bedr genoemd kunnen worden. Later kan blijken dat opsplitsing verder zit heeft. #bespreken15april
