@@ -28,4 +28,7 @@ title: bespreken15april
 :doing: 1619002697810
 :todo: 1619002695304
 :END:
-## Fabien en ellen Kampert voor conceptueel modellen voor iStandaarden;  wanneer? Wij doen OWL
+## Fabien en ellen Kampert voor conceptueel modellen voor iStandaarden;  wanneer? Wij doen OWL.
+:PROPERTIES:
+:done: 1619002731881
+:END:
