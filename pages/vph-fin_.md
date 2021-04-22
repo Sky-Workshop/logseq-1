@@ -17,7 +17,8 @@ title: vph-fin:
 Basisveiligheid gerelateerde concepten zijn : decubitus, advance care planning, medicatieveiligheid, vrijheidsbeperking, continentie en voeding.
 ### Voorstel:
 #### Zorg /  Veiligheid /  Personeel  /  Bedrijfsvoering
-#### Zorg: primair proces van zorgverlening. Dit levert vph-zorg
+#### Zorg: 
+primair proces van zorgverlening. Dit levert vph-zorg
 #### Veiligheid:
  client welzijn beinvloedende concepten zoals decubitus en voeding. vph-veiligh
 #### Personeel: 
