@@ -3,6 +3,10 @@ title: Onto overleg 22 april
 ---
 
 ## Agenda
+## 29 april:
+- deel onto's
+- obj prop
+- kik feedback
 ## kik aanpassen op basis van de review
 ## delen vph-fin:
 ## object properties:
