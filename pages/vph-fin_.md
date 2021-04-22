@@ -18,7 +18,7 @@ Basisveiligheid gerelateerde concepten zijn : decubitus, advance care planning, 
 ### Voorstel:
 #### Zorg /  Veiligheid /  Personeel  /  Bedrijfsvoering
 #### Zorg: 
-primair proces van zorgverlening. Dit levert vph-zorg
+primair proces van zorgverlening. Dit levert vph-zorg. Blijkt lastig in te vullen.
 #### Veiligheid:
  client welzijn beinvloedende concepten zoals decubitus en voeding. vph-veiligh
 #### Personeel: 
