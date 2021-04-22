@@ -6,7 +6,7 @@ title: Semmtech
 ## Rogier Post (Tennet, programma Dare to be Digital, doel vervangen 150 hoogspanningstations)
 ## Wouter Lubbers
 ## Bram Bazuin (Semmtech)
-## Semmtech stelt visie en helpt bouwen voor **Open Partner ecosysteem**. Bevat een projecten ontologie
+## Semmtech stelt visie en helpt bouwen voor **Open Partner ecosysteem**. Bevat een projecten en asset ontologie. ILS
 ## TenneT visie: 
 ![2021_04_22_afbeelding.png](https://cdn.logseq.com/%2F8f1ae382-5f18-4f77-89b5-10a6cfda69c537f2be0b-9e27-4b20-bcd2-0eaec94281ea2021_04_22_afbeelding.png?Expires=4772698932&Signature=DyTGxGIwmDq93pmpq0~5goNwztEOzPU8OgoAr25Cx88RmGcY6Nqz5XxIxd2bAK~KKYpho4X1mUHg3h8HovuLVddkc1S1SjUeJLoAsAdWedkRoPRcz50zVL-Jym5NA0v6otTZmh83l~9nnqDGP2WIWWj4IvfOIFbeNfQij09yoWLC1FnyzaPVNdC-eo06TL0k4oWFyzg1y4maM~7xhqLzjnPZMxNrr7RlkNuLHfjZtSnO8lsEk0oYocvqR8db82QkbLOg1LJ3xMQqyV5u-IpFDQp7FqebfL8SpGPrHWVBWTQOL~YmHToPOrnWfNRVI1LkThp2glq8HaaLd5wDwjbkFw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ##
