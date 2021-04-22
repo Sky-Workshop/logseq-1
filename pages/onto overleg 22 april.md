@@ -6,7 +6,8 @@ title: Onto overleg 22 april
 ## kik aanpassen op basis van de review
 ## delen vph-fin:
 ## object properties:
-vph
+vph 
+oplever datum
 ## kik feedback
 ## Indicator definitie
 ## vph check kik ea
