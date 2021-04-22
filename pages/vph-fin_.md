@@ -2,12 +2,9 @@
 title: vph-fin:
 ---
 
-##
 ## DOING Mag een property een domein uit een andere ontologie hebben? Dit moet wel kunnen omdat anders alleen voor dit doel klassen gemaakt zullen gaan worden. Het onderverdelen tussen personele samenstelling en bedrijfsvoering zal leiden tot contract relaties tussen een personeels lid en een organisatie. #bespreken15april
 :PROPERTIES:
-:doing: 1619006830865
-:todo: 1618992461833
-:done: 1619006807832
+:doing: 1619074128606
 :END:
 ## TODO Wat is de dubbelloop met kik?
 :PROPERTIES:
