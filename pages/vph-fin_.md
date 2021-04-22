@@ -36,4 +36,7 @@ In de kik ontologie zitten voornamelijk personeel en dus zorg en personeelssamen
 :PROPERTIES:
 :todo: 1619017959744
 :END:
-## Gebruik name spaces in vph
+## TODO Gebruik name spaces in vph? 
+:PROPERTIES:
+:todo: 1619088279446
+:END:
