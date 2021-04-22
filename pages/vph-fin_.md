@@ -20,8 +20,7 @@ Basisveiligheid gerelateerde concepten zijn : decubitus, advance care planning, 
 #### Zorg: primair proces van zorgverlening. Dit levert vph-zorg
 #### Veiligheid: client welzijn beinvloedende concepten zoals decubitus en voeding. vph-veiligh
 #### Personeel: personeelssamenstelling en ontwikkeling. Dit wordt vph-pers. In de kik ontologie zitten voornamelijk personeel en dus zorg en personeelssamenstelling gerelateerde concepten. kik zou dus opgesplitst kunnen worden naar vph-pers en vph-veiligh
-#### Bedrijfsvoering: Ondersteunende concepten, vult randvoorwaarden voor de zorgaanbieder in. vph-fin kan beter vph-bedr genoemd kunnen worden. Later kan blijken dat opsplitsing verder zit heeft. 
- #bespreken15april
+#### Bedrijfsvoering: Ondersteunende concepten, vult randvoorwaarden voor de zorgaanbieder in. vph-fin kan beter vph-bedr genoemd kunnen worden. Later kan blijken dat opsplitsing verder zit heeft.  #bespreken15april
 ## VVT Verpleeg- en Verzorgingshuizen en Thuiszorg. Wanneer is dit een relevant onderscheid met VPH? #bespreken15april
 ## TODO Hoe zijn veiligheid en welzijn gerelateerd? Wordt dit in de thesaurus opgenomen? #bespreken15april
 :PROPERTIES:
