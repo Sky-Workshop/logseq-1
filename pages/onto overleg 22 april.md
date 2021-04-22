@@ -10,7 +10,7 @@ vph
 oplever datum
 ## data aanleveren:
 - als indicator, wat dan?
-- aggregaties
+- aggregaties , verschillende personen
 ## kik feedback
 ## Indicator definitie
 ## vph check kik ea
