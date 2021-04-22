@@ -16,7 +16,7 @@ title: vph-fin:
 :END:
 ## Het convenant onderscheid [[kwaliteit]] en [[bedrijfsvoering]]. Welke concepten vallen hieronder? De huidige ontwikkelde indicatoren gaan over basisveiligheid en personeelssamenstelling. 
 Basisveiligheid gerelateerde concepten zijn : decubitus, advance care planning, medicatieveiligheid, vrijheidsbeperking, continentie en voeding.
-Voorstel:
+## Voorstel:
 Zorg: primair proces van zorgverlening. Dit levert vph-zorg
 Veiligheid: client welzijn beinvloedende concepten zoals decubitus en voeding. vph-veiligh
 Personeel: personeelssamenstelling en ontwikkeling. Dit wordt vph-pers.
