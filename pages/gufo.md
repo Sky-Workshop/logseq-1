@@ -71,7 +71,7 @@ title: Gufo
 ## 
 | gufo:broughtAbout                   | gufo:Event                            | gufo:Situation                        |                                       |           |
 |-------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|-----------|
-| gufo:categorizes                    | gufo:Type                             | and (not gufo:AbstractIndividualType) and (not gufo:ConcreteIndividualType) | gufo:Type |
+| gufo:categorizes                    | gufo:Type           and (not gufo:AbstractIndividualType) and (not gufo:ConcreteIndividualType) | gufo:Type |
 | gufo:concernsConstitutedEndurant    | gufo:TemporaryConstitutionSituation   | gufo:Endurant                         |                                       |           |
 | gufo:concernsNonRigidType           | gufo:TemporaryInstantiationSituation  | gufo:NonRigidType                     |                                       |           |
 | gufo:concernsQualityType            | gufo:QualityValueAttributionSituation | gufo:EndurantType                     |                                       |           |
