@@ -11,6 +11,7 @@ oplever datum
 ## data aanleveren:
 - als indicator, wat dan?
 - aggregaties , verschillende personen
+- is leeftijd gevoelig?
 ## kik feedback
 ## Indicator definitie
 ## vph check kik ea
