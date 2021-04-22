@@ -22,7 +22,7 @@ Basisveiligheid gerelateerde concepten zijn : decubitus, advance care planning, 
 #### Personeel: personeelssamenstelling en ontwikkeling. Dit wordt vph-pers.
 #### Bedrijfsvoering: Ondersteunende concepten, vult randvoorwaarden in. 
 In de kik ontologie zitten voornamelijk personeel en dus zorg en personeelssamenstelling gerelateerde concepten. kik zou dus opgesplitst kunnen worden naar vph-pers en vph-veiligh #bespreken15april
-## vph-fin kan beter vph-bedr genoemd kunnen worden. Later kan blijken dat opsplitsing verder zit heeft. #bespreken15april
+#### vph-fin kan beter vph-bedr genoemd kunnen worden. Later kan blijken dat opsplitsing verder zit heeft. #bespreken15april
 ## VVT Verpleeg- en Verzorgingshuizen en Thuiszorg. Wanneer is dit een relevant onderscheid met VPH? #bespreken15april
 ## TODO Hoe zijn veiligheid en welzijn gerelateerd? Wordt dit in de thesaurus opgenomen? #bespreken15april
 :PROPERTIES:
