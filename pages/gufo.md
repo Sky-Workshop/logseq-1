@@ -69,3 +69,44 @@ title: Gufo
 |gufo:standsInQualifiedAttribution|gufo:standsIn|
 |gufo:standsInQualifiedConstitution|gufo:standsIn|
 ##
+| gufo:broughtAbout                   | gufo:Event                            | gufo:Situation                        |
+|-------------------------------------|---------------------------------------|---------------------------------------|
+| gufo:concernsConstitutedEndurant    | gufo:TemporaryConstitutionSituation   | gufo:Endurant                         |
+| gufo:concernsNonRigidType           | gufo:TemporaryInstantiationSituation  | gufo:NonRigidType                     |
+| gufo:concernsQualityType            | gufo:QualityValueAttributionSituation | gufo:EndurantType                     |
+| gufo:concernsReifiedQualityValue    | gufo:QualityValueAttributionSituation | gufo:QualityValue                     |
+| gufo:concernsRelatedEndurant        | gufo:TemporaryRelationshipSituation   | gufo:Endurant                         |
+| gufo:concernsRelationshipType       | gufo:TemporaryRelationshipSituation   | gufo:RelationshipType                 |
+| gufo:concernsTemporaryWhole         | gufo:TemporaryParthoodSituation       | gufo:Endurant                         |
+| gufo:constitutes                    | gufo:ConcreteIndividual               | gufo:ConcreteIndividual               |
+| gufo:contributedToTrigger           | gufo:Situation                        | gufo:Event                            |
+| gufo:externallyDependsOn            | gufo:ExtrinsicMode                    | gufo:Endurant                         |
+| gufo:hasAssociatedQualityValueType  | gufo:EndurantType                     | gufo:AbstractIndividualType           |
+| gufo:hasBeginPoint                  | gufo:ConcreteIndividual               | time:Instant                          |
+| gufo:hasEndPoint                    | gufo:ConcreteIndividual               | time:Instant                          |
+| gufo:hasReifiedQualityValue         | gufo:ConcreteIndividual               | gufo:QualityValue                     |
+| gufo:historicallyDependsOn          | gufo:ConcreteIndividual               | gufo:ConcreteIndividual               |
+| gufo:inheresIn                      | gufo:Aspect                           | gufo:ConcreteIndividual               |
+| gufo:isAspectProperPartOf           | gufo:Aspect                           | gufo:Aspect                           |
+| gufo:isCollectionMemberOf           | gufo:Object                           | gufo:Collection                       |
+| gufo:isComponentOf                  | gufo:Object                           | gufo:FunctionalComplex                |
+| gufo:isEventProperPartOf            | gufo:Event                            | gufo:Event                            |
+| gufo:isObjectProperPartOf           | gufo:Object                           | gufo:Object                           |
+| gufo:isProperPartOf                 | owl:Thing                             | owl:Thing                             |
+| gufo:isSituationProperPartOf        | gufo:Situation                        | gufo:Situation                        |
+| gufo:isSubCollectionOf              | gufo:Collection                       | gufo:Collection                       |
+| gufo:isSubQuantityOf                | gufo:Quantity                         | gufo:Quantity                         |
+| gufo:manifestedIn                   | gufo:Aspect                           | gufo:Event                            |
+| gufo:mediates                       | gufo:Relator                          | gufo:Endurant                         |
+| gufo:participatedIn                 | gufo:Object                           | gufo:Event                            |
+| gufo:standsIn                       | owl:Thing                             | gufo:Situation                        |
+| gufo:standsInQualifiedAttribution   | gufo:Endurant                         | gufo:QualityValueAttributionSituation |
+| gufo:standsInQualifiedConstitution  | gufo:Endurant                         | gufo:TemporaryConstitutionSituation   |
+| gufo:standsInQualifiedInstantiation | gufo:Endurant                         | gufo:TemporaryInstantiationSituation  |
+| gufo:standsInQualifiedParthood      | gufo:Endurant                         | gufo:TemporaryParthoodSituation       |
+| gufo:standsInQualifiedRelationship  | gufo:Endurant                         | gufo:TemporaryRelationshipSituation   |
+| gufo:wasCreatedIn                   | gufo:Endurant                         | gufo:Event                            |
+| gufo:wasTerminatedIn                | gufo:Endurant                         | gufo:Event                            |
+| owl:bottomObjectProperty            | owl:Thing                             | owl:Thing                             |
+| owl:topObjectProperty               | owl:Thing                             | owl:Thing                             |
+##
