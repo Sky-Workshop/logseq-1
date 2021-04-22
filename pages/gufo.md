@@ -53,17 +53,18 @@ title: Gufo
 #+END_EXAMPLE
 ### Een vph:Arbeidsovereenkomst is geen http://purl.org/nemo/gufo#TemporaryRelationshipSituation omdat een Situation een verzameling relaties is en geen verzameling individuals
 ## subProperties
-gufo:partitions gufo:categorizes
-gufo:isSubCollectionOf	gufo:isObjectProperPartOf
-gufo:isCollectionMemberOf	gufo:isObjectProperPartOf
-gufo:isComponentOf	gufo:isObjectProperPartOf
-gufo:isSubQuantityOf	gufo:isObjectProperPartOf
-gufo:isAspectProperPartOf	gufo:isProperPartOf
-gufo:isEventProperPartOf	gufo:isProperPartOf
-gufo:isObjectProperPartOf	gufo:isProperPartOf
-gufo:isSituationProperPartOf	gufo:isProperPartOf
-gufo:standsInQualifiedRelationship	gufo:standsIn
-gufo:standsInQualifiedParthood	gufo:standsIn
-gufo:standsInQualifiedInstantiation	gufo:standsIn
-gufo:standsInQualifiedAttribution	gufo:standsIn
-gufo:standsInQualifiedConstitution	gufo:standsIn
+|subProperty|Property|
+|gufo:partitions|gufo:categorizes|
+|gufo:isSubCollectionOf|gufo:isObjectProperPartOf|
+|gufo:isCollectionMemberOf|gufo:isObjectProperPartOf|
+|gufo:isComponentOf|gufo:isObjectProperPartOf|
+|gufo:isSubQuantityOf|gufo:isObjectProperPartOf|
+|gufo:isAspectProperPartOf|gufo:isProperPartOf|
+|gufo:isEventProperPartOf|gufo:isProperPartOf|
+|gufo:isObjectProperPartOf|gufo:isProperPartOf|
+|gufo:isSituationProperPartOf|gufo:isProperPartOf|
+|gufo:standsInQualifiedRelationship|gufo:standsIn|
+|gufo:standsInQualifiedParthood|gufo:standsIn|
+|gufo:standsInQualifiedInstantiation|gufo:standsIn|
+|gufo:standsInQualifiedAttribution|gufo:standsIn|
+|gufo:standsInQualifiedConstitution|gufo:standsIn|
