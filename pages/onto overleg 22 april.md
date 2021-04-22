@@ -8,4 +8,7 @@ title: Onto overleg 22 april
 ## object properties:
 ## kik feedback
 ## Indicator definitie
-##
+## vph check kik ea
+## redenen van opsplitsen:
+- eigenaren
+- wijzigbaarheid
