@@ -69,7 +69,7 @@ title: Gufo
 |gufo:standsInQualifiedAttribution|gufo:standsIn|
 |gufo:standsInQualifiedConstitution|gufo:standsIn|
 ## All gUFO ObjectProperties
-|
+|Property|Domain|Range|
 |-------------------------------------|---------------------------------------|---------------------------------------|
 | gufo:broughtAbout                   | gufo:Event                            | gufo:Situation                        |
 | gufo:concernsConstitutedEndurant    | gufo:TemporaryConstitutionSituation   | gufo:Endurant                         |
