@@ -53,7 +53,7 @@ title: Gufo
 #+END_EXAMPLE
 ### Een vph:Arbeidsovereenkomst is geen http://purl.org/nemo/gufo#TemporaryRelationshipSituation omdat een Situation een verzameling relaties is en geen verzameling individuals
 ## subProperties
-gufo:partitions	gufo:categorizes
+gufo:partitions gufo:categorizes
 gufo:isSubCollectionOf	gufo:isObjectProperPartOf
 gufo:isCollectionMemberOf	gufo:isObjectProperPartOf
 gufo:isComponentOf	gufo:isObjectProperPartOf
