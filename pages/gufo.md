@@ -69,8 +69,9 @@ title: Gufo
 |gufo:standsInQualifiedAttribution|gufo:standsIn|
 |gufo:standsInQualifiedConstitution|gufo:standsIn|
 ## All gUFO ObjectProperties
-| gufo:broughtAbout                   | gufo:Event                            | gufo:Situation                        |
+|
 |-------------------------------------|---------------------------------------|---------------------------------------|
+| gufo:broughtAbout                   | gufo:Event                            | gufo:Situation                        |
 | gufo:concernsConstitutedEndurant    | gufo:TemporaryConstitutionSituation   | gufo:Endurant                         |
 | gufo:concernsNonRigidType           | gufo:TemporaryInstantiationSituation  | gufo:NonRigidType                     |
 | gufo:concernsQualityType            | gufo:QualityValueAttributionSituation | gufo:EndurantType                     |
