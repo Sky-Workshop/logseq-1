@@ -2,7 +2,7 @@
 title: Ontologie ontwerp
 ---
 
-## five high-level characteristics of ontology design:
+## five high-level characteristics of ontology design: 3ontolo
 - (1) Can humans understand the ontology correctly? (Intelligibility)
 - (2) Does the ontology accurately represent its domain? (Fidelity)
 - (3) Is the ontology well-built and are design decisions followed consistently? (Craftsmanship)
