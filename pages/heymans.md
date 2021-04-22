@@ -10,5 +10,5 @@ title: Heymans
 ### Toon architectuur EDG / Macomi / App
 ### Status Beukersluis (in macomi data demo 1)
 ### Benodigde inspecties, type beuke (in planning data demo 1, door asset manager)
-### Na Macomi run onstaat een planning data (in planning data demo 1, door planner )
+### Na Macomi run onstaat een planning data, type Marjo (in planning data demo 1, door planner )
 ###
