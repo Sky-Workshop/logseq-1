@@ -11,7 +11,7 @@ title: Onto overleg 22 april
 ## delen vph-fin:
 ## object properties:
 - Hoe aansluiten bij vph 
-- Hoe relevant voor oplever datum, kwaliteits vraagstuk dus.
+- Hoe relevant voor oplever datum, kwaliteits vraagstuk dus. Zie #ontologiekwaliteit
 ## data aanleveren:
 - als indicator, wat dan?
 - aggregaties , verschillende personen
