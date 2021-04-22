@@ -68,7 +68,7 @@ title: Gufo
 |gufo:standsInQualifiedInstantiation|gufo:standsIn|
 |gufo:standsInQualifiedAttribution|gufo:standsIn|
 |gufo:standsInQualifiedConstitution|gufo:standsIn|
-##
+## All gUFO ObjectProperties
 | gufo:broughtAbout                   | gufo:Event                            | gufo:Situation                        |
 |-------------------------------------|---------------------------------------|---------------------------------------|
 | gufo:concernsConstitutedEndurant    | gufo:TemporaryConstitutionSituation   | gufo:Endurant                         |
