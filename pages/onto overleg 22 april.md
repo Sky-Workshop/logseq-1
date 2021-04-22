@@ -10,8 +10,8 @@ title: Onto overleg 22 april
 ## kik aanpassen op basis van de review
 ## delen vph-fin:
 ## object properties:
-vph 
-oplever datum
+- Hoe aansluiten bij vph 
+- Hoe relevant voor oplever datum, kwaliteits vraagstuk dus.
 ## data aanleveren:
 - als indicator, wat dan?
 - aggregaties , verschillende personen
