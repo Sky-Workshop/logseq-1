@@ -8,6 +8,9 @@ title: Onto overleg 22 april
 ## object properties:
 vph 
 oplever datum
+## data aanleveren:
+- als indicator, wat dan?
+- aggregaties
 ## kik feedback
 ## Indicator definitie
 ## vph check kik ea
