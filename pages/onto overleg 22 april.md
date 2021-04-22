@@ -10,5 +10,5 @@ title: Onto overleg 22 april
 ## Indicator definitie
 ## vph check kik ea
 ## redenen van opsplitsen:
-- eigenaren omwille van change
+- eigenaren omwille van change mgt
 - wijzigbaarheid
