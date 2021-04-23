@@ -8,4 +8,4 @@ title: vph:
 ## Welke vph:Class komt overeen met de gUFO?
 ## RGSCode ? Dit is een referentie waarde type die een waarde weergeeft. Er zijn in vph meerder waardetypes gedefinieerd
 ## Loan? vph:FinancialDocument
-## Als we stellen dat een objectProperty een subpropetry is van een in vph gedefinieerde objectProperty; welke superProperty heeft hasRGSCode dan. Deze eis lijkt mij onmogelijk omdat met properties twee classen uit een boom relateren. Wat kan deze mogelijkheden beperken?
+## Als we stellen dat een objectProperty een subpropetry is van een in vph gedefinieerde objectProperty; welke superProperty heeft hasRGSCode dan. Deze eis lijkt mij onmogelijk omdat met properties twee classen uit een boom relateren. Wat kan deze mogelijkheden beperken? gUFO heeft objectproperties gedenieerd die volledig lijken te zijn
