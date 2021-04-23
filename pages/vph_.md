@@ -8,4 +8,4 @@ title: vph:
 ## Welke vph:Class komt overeen met de gUFO?
 ## RGSCode ? Dit is een referentie waarde type die een waarde weergeeft. Er zijn in vph meerder waardetypes gedefinieerd
 ## Loan? vph:FinancialDocument
-## Als we stellen dat een objectProperty een subpropetry is van een in vph gedefinieerde objectProperty; welke superProperty heeft hasRGSCode dan. Deze eis lijkt mij onmogelijk omdat met properties twee classen uit een boom relateren. Wat kan deze mogelijkheden beperken? gUFO heeft objectproperties gedefinieerd die volledig lijkt te zijn. muv parts gebruikt gUFO hierbij geen supProperties. Het lijkt een keuze om su
+## Als we stellen dat een objectProperty een subpropetry is van een in vph gedefinieerde objectProperty; welke superProperty heeft hasRGSCode dan. Deze eis lijkt mij onmogelijk omdat met properties twee classen uit een boom relateren. Wat kan deze mogelijkheden beperken? gUFO heeft objectproperties gedefinieerd die volledig lijkt te zijn. muv parts gebruikt gUFO hierbij geen supProperties. Het lijkt logisch subproperties te gaan maken in domein ontologies omdat anders deze gUFO properties zinloos lijken.
