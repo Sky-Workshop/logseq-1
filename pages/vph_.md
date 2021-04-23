@@ -8,3 +8,4 @@ title: vph:
 ## Welke vph:Class komt overeen met de gUFO?
 ## RGSCode ? Dit is een referentie waarde type die een waarde weergeeft. Er zijn in vph meerder waardetypes gedefinieerd
 ## Loan? vph:FinancialDocument
+##
