@@ -11,6 +11,6 @@ title: vph:
 ## Als we stellen dat een objectProperty een subpropetry is van een in vph gedefinieerde objectProperty; welke superProperty heeft hasRGSCode dan. Deze eis lijkt mij onmogelijk omdat met properties twee classen uit een boom relateren. Wat kan deze mogelijkheden beperken? gUFO heeft objectproperties gedefinieerd die volledig lijkt te zijn. muv parts gebruikt gUFO hierbij geen supProperties. Het lijkt logisch subproperties te gaan maken in domein ontologies omdat anders deze gUFO properties zinloos lijken.
 ## 
 |Strategie|Voordelen|
-|Geen subProperties vanuit vph|Geen intrisieke model validatie; wel flexibel. Tevens mogelijk conflict tussen |
+|Geen subProperties vanuit vph|Geen intrisieke model validatie; wel flexibel. Tevens mogelijk conflict tussen inhereted |
 |subProperties vanuit vph|Intrinsieke validatie van model mede door class type validatie.|
 ##
