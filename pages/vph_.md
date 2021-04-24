@@ -14,4 +14,3 @@ title: vph:
 |Geen subProperties vanuit vph|Geen intrisieke model validatie; wel flexibel|
 |subProperties vanuit vph|Intrinsieke validatie van model mede door class type validatie
 ##
-##
