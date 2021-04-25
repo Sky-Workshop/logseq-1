@@ -8,4 +8,4 @@ title: Ontologie ontwerp
 - (3) Is the ontology well-built and are design decisions followed consistently? (Craftsmanship)
 - (4) Does the representation of the domain fit the requirements for its intended use? (Fitness)
 - (5) Does the deployed ontology meet the requirements of the information system of which it is part? (Deployability)
-## Is de volgende stelling waar? "Het maken van een eigen upper
+## Is de volgende stelling waar? "Het maken van een ontologie op basis van meerdere upper ontologieën geeft laten interoperabiliteit problemen.
