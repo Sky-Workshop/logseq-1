@@ -6,4 +6,4 @@ title: min-fin POC
 ### 1.	Exporter naar Drupal afmaken zodat we een minimale implementatie hebben.
 ### 2. CSS toevoegen nadat er door MinFin een aantal modelverbeteringen zijn doorgevoerd voor vooral de tabellen.
 ## Clyde: Heb jij voor mij de gespecificeerde uren inzake het POC voor Minfin?
-##
+## 4 uur schrijven om tot 44 te komen; resteren 6 uur.
