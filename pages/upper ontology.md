@@ -5,10 +5,10 @@ title: upper ontology
 ## Domein invariante ontologie.
 ## Wikipedia : https://en.wikipedia.org/wiki/Upper_ontology
 ## Typen: linguistic en realist.
-|Linguistic|Realist|
-|DOLCE|FBO|
-|SUMO|UFO-A, UFO-B|
-|UFO-C|gUFO|
+|Linguistic|Realist|Multi|
+|DOLCE|FBO|DUL|
+|SUMO|UFO-A, UFO-B|gUFO|
+|UFO-C|||
 ## BOT (Building Ontology) heeft een generalisatie vanuit DUL:
 bot:Site rdfs:subClassOf dul:PhysicalPlace .
 
