@@ -2,4 +2,4 @@
 title: ontology
 ---
 
-## [[ontologie]]
+## #ontologie
