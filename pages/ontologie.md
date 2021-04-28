@@ -15,3 +15,5 @@ required for increased complexity. [Bron](https://doi.org/10.1016/j.datak.2015.1
 :END:
 ## Er is een trend waarbij taxonomieën steeds meer ontologieën worden genoemd.
 ## Kunnen we bepalen hoe nauwkeurig de ontologie moet zijn?
+## Dat we begonnen zijn met de taxonomie is een logisch proces.
+##
