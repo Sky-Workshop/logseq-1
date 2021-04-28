@@ -9,6 +9,8 @@ title: upper ontology
 |DOLCE|FBO|DUL|IOLite|
 |SUMO|UFO-A, UFO-B|gUFO||
 |UFO-C||||
+|LMM||||
+##
 ## BOT (Building Ontology) heeft een generalisatie vanuit DUL:
 bot:Site rdfs:subClassOf dul:PhysicalPlace .
 
