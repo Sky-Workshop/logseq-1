@@ -14,9 +14,10 @@ title: Activiteiten
 :PROPERTIES:
 :todo: 1617809214731
 :END:
-## DOING create training material voor [[RIONED]] 
+## DONE create training material voor [[RIONED]] 
 :PROPERTIES:
 :doing: 1617807749175
+:done: 1619591071957
 :END:
 ## DONE review [[KIK-V]] ontologie
 :PROPERTIES:
