@@ -2,4 +2,5 @@
 title: upper ontology
 ---
 
-## Domein irre
+## Domein invariante ontologie.
+##
