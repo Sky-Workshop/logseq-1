@@ -32,5 +32,5 @@ bot:interfaceOf rdfs:subPropertyOf dul:hasCommonBoundary .
 
 bot:intersectsZone rdfs:subPropertyOf dul:overlaps .
 bot:intersectingElement rdfs:subPropertyOf dul:overlaps .
-##
+## DOLCE, Universiteit van Bologna, Aldo Gangemi
 ##
