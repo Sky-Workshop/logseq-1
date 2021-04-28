@@ -20,4 +20,4 @@ required for increased complexity. [Bron](https://doi.org/10.1016/j.datak.2015.1
 ## Kunnen we bepalen hoe nauwkeurig de ontologie moet zijn?
 ## Dat we begonnen zijn met de taxonomie is een logisch proces.
 ## Wat zijn de overeenkomsten en verschillen van berichtenverkeer en informatie ophalen bij de bron?
-## Zorg, toerisme en assetmanagement zijn typische domeinen waarin ontologieën van waarde zijn. Welke nog meer? Fintech, wetgeving en opsporing.
+## Zorg, toerisme en assetmanagement zijn typische domeinen waarin ontologieën van waarde zijn. Welke nog meer? Fintech en wetgeving en opsporing.
