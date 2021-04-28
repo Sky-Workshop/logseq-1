@@ -33,4 +33,5 @@ bot:interfaceOf rdfs:subPropertyOf dul:hasCommonBoundary .
 bot:intersectsZone rdfs:subPropertyOf dul:overlaps .
 bot:intersectingElement rdfs:subPropertyOf dul:overlaps .
 ## DOLCE, Universiteit van Bologna, Aldo Gangemi
-## UFO-S is ontologie voor services
+## [UFO-S](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjpmrSljKHwAhUH66QKHdejC2AQFjADegQICRAD&url=https%3A%2F%2Fresearch.utwente.nl%2Ffiles%2F5314384%2FPID2823851.pdf&usg=AOvVaw09XsVsaONwjmbO2R0ZpKOO) is ontologie voor services.
+##
