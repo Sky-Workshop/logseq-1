@@ -6,5 +6,7 @@ title: upper ontology
 ## Typen: linguistic en realist.
 |Linguistic|Realism|
 |DOLCE|FBO|
-|SUMO||
+|SUMO|UFO-A, UFO-B|
+|UFO-C||
+##
 ##
