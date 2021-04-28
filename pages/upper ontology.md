@@ -6,9 +6,9 @@ title: upper ontology
 ## Wikipedia : https://en.wikipedia.org/wiki/Upper_ontology
 ## Typen: linguistic en realist.
 |Linguistic|Realist|Multi|Info objects|
-|DOLCE|FBO|DUL|
-|SUMO|UFO-A, UFO-B|gUFO|
-|UFO-C|||
+|DOLCE|FBO|DUL|IOLite|
+|SUMO|UFO-A, UFO-B|gUFO||
+|UFO-C||||
 ## BOT (Building Ontology) heeft een generalisatie vanuit DUL:
 bot:Site rdfs:subClassOf dul:PhysicalPlace .
 
