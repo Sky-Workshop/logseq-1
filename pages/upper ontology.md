@@ -5,7 +5,7 @@ title: upper ontology
 ## Domein invariante ontologie.
 ## Wikipedia : https://en.wikipedia.org/wiki/Upper_ontology
 ## Typen: linguistic en realist.
-|Linguistic|Realist|Multi|
+|Linguistic|Realist|Multi|Info objects|
 |DOLCE|FBO|DUL|
 |SUMO|UFO-A, UFO-B|gUFO|
 |UFO-C|||
