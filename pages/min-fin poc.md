@@ -10,5 +10,5 @@ title: min-fin POC
 ## Doel MVP:
 - creëer HTML-bestanden die ingelezen kunnen worden. Niet via Drupal tabel.
 ## Volgens Boyd Pappot bestaat het probleem dat verschillende ministeries beleidsstukken aanleveren bij financiën in verschillende formaten. De overgang naar RDF zou m.i. hier moeten beginnen door een gezamenlijk aanlever standaard te maken zoals we in andere domeinen kennen, b.v. Informatie leveringsspecificatie (ILS).
-Hoe ziet de relatie eruit tussen
+Hoe ziet de relatie eruit tussen financiën en wetgeving in semantisch opzicht?
 ##
