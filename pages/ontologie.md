@@ -23,7 +23,8 @@ required for increased complexity. [Bron](https://doi.org/10.1016/j.datak.2015.1
 |Verschillen|Overeenkomsten|
 |Controle op informatie overdracht is anders||
 ||Informatie dichtheid is het zelfde|
-|Berichtenverkeer kent 3 systemen: bron, bericht en doel||
+|Berichtenverkeer kent 3 systemen: bron, bericht en doel|Ophalen ken alleen een bron en doel systeem|
+##
 ##
 ## Zorg, toerisme en assetmanagement zijn typische domeinen waarin ontologieën van waarde zijn. Welke nog meer? Fintech en wetgeving en opsporing, b.v. douane accijns coderingen (Taric-code). Heeft ministerie van financiën eigenlijk behoefte aan een ontologie ecosysteem omwille van de interoperabiliteit tussen ministeries.
 ## Methontology is een methode voor ontologie ontwikkeling.
