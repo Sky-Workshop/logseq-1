@@ -22,7 +22,8 @@ required for increased complexity. [Bron](https://doi.org/10.1016/j.datak.2015.1
 ## Wat zijn de overeenkomsten en verschillen van berichtenverkeer en informatie ophalen bij de bron?
 |Verschillen|Overeenkomsten|
 |Controle op informatie overdracht is anders||
-||
+||Informatie dichtheid is het zelfde|
+|
 ## Zorg, toerisme en assetmanagement zijn typische domeinen waarin ontologieën van waarde zijn. Welke nog meer? Fintech en wetgeving en opsporing, b.v. douane accijns coderingen (Taric-code). Heeft ministerie van financiën eigenlijk behoefte aan een ontologie ecosysteem omwille van de interoperabiliteit tussen ministeries.
 ## Methontology is een methode voor ontologie ontwikkeling.
 ## Zijn er gevallen bekend waarbij FIBO aan een upper ontologie wordt gekoppeld?
