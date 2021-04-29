@@ -3,7 +3,7 @@ title: bespreken15april
 ---
 
 ## Zijn er andere vocabulaires die gebruikt kunnen worden? b.v.
-- ORG  (Roxanne kijkt hiernaar)
+- ORG  
 - UFO-S
 - FIBO (Delen op het laagste niveau , b.v. saldo op een rekening)
 ## Meerdere upper ontologieën, is dat een gevaar? Zijn objectProperties nu doable?
