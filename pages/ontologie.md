@@ -12,7 +12,7 @@ required for increased complexity. [Bron](https://doi.org/10.1016/j.datak.2015.1
 :PROPERTIES:
 :todo: 1619602746300
 :END:
-## TODO Hoe laat het domein van kik-v (verpleeghuizen, check convenant) zich beschrijven?
+## TODO Hoe laat het domein van kik-v (verpleeghuizen, check convenant) zich beschrijven? Is de standaard dataset beschrijving de specificatie van de ontologie?
 :PROPERTIES:
 :todo: 1619594364538
 :END:
