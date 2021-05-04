@@ -6,7 +6,7 @@ title: ontologie
 ## Definitie:
 ### An ontology is a formal, explicit specification of a shared conceptualization that is characterized by high semantic expressiveness
 required for increased complexity. [Bron](https://doi.org/10.1016/j.datak.2015.11.003) #bespreken15april
-Daarnaast heeft een ontologie meer dan een doel. (kik: (i) basis, eenduidigheid voor afspraak en (ii) data creatie en (iii) data validatie)
+Daarnaast heeft een ontologie meer dan een doel. (kik: (i) basis voor en eenduidigheid bij afspraak en (ii) data creatie en (iii) data validatie)
 ## Wat is het verschil tussen een ontologie en een taxonomie? De overeenkomst is de klassen hiërarchie, de verschillen zijn axioma's over de klassen zoals 'niet' en 'gelijk'.
 ## Is kik-v een wetenschappelijk of een business programma?
 ## TODO Hoe ziet typisch **gebruik** van de kik-v ontologie eruit? Handmatig, machinaal of beide? Een ontologie is te complex om door iemand willekeurig juist gebruikt te worden anders dan de bouwer. Hierdoor dienen use-cases gedefinieerd te worden waarbij voor een specifiek moment en een gebruiker en een presentatievorm gerealiseerd wordt. Deze capability is essentieel voor het krijgen van feedback en dus de kwaliteit van de ontologie. #bespreken15april
