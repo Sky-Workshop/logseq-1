@@ -2,6 +2,8 @@
 title: waterpomp
 ---
 
+## ![2021_05_08_afbeelding.png](https://cdn.logseq.com/%2F8f1ae382-5f18-4f77-89b5-10a6cfda69c589aa76a9-9076-4c0e-8947-d78c0eb59d3a2021_05_08_afbeelding.png?Expires=4774074761&Signature=geci3kuZMH3NDqZny-3iyJGTTzx-jU1aX62lHCuWivQARpYpIGlUhz21KJvhtM19M~kCvsKCfez-vG3D-VAk2bL6K3KfRhbp2q8EnslngtEzpqPCDf9AJPmMrTUMi4o01d2U8FoM-5ncFIzedtUtnFtb78eOv3MwpKs9rMHBRFvUmibZaDOrFfhpPbEIkL7AM~Ziohk~LAqfNfd6t1Yv-71Yb-kVWiU2-JdJqSzd4ZF~bGUcYg5CqyKTA1opDJbif6lRra6tpwYcI75ZOfrlBDt8LsV7vlzSyrGyjt~qYDKw1M-KRyOsLVIZRszEBitUS9KLlbpo7sPxB0OZVGDWtQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+##
 ## Waarom geen regenton?
 ## https://www.waterpompshop.nl/el-garden-800-beregeningspomp
 ## bediening:
