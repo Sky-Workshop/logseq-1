@@ -18,6 +18,7 @@ title: waterpomp
 ## Eisen:
 ### 10x2,5 m
 ### pomp
+### IP44 bescherming tegen water
 ### druk regelbaar tbv sproeistraal
 ### Tijdschakelaar
 ### 4 sproeiers voor 2,5 diameter
