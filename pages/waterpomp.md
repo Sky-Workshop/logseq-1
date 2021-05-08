@@ -4,7 +4,8 @@ title: waterpomp
 
 ## Waarom geen regenton?
 ## https://www.waterpompshop.nl/el-garden-800-beregeningspomp
-## https://www.waterpompshop.nl/elektronisch-controle-systeem met daarachter een waterschakelaar die op afstand te bedienen is.
+## bediening:
+- https://www.waterpompshop.nl/elektronisch-controle-systeem met daarachter een waterschakelaar die op afstand te bedienen is.
 ## Aanzuigslang:
 ## Programmeren
 ## Sproeiers
