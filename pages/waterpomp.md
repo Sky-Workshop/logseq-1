@@ -10,7 +10,7 @@ title: waterpomp
 ## Sproeiers
 ## slang / leiding naar sproeiers
 ## Eisen:
-### Tegen droogloop
+### Tegen droogloop, nietnodig, kans bijzonder klein
 ### 2 sproeiers
 ### Tijdschakelaar
 ## Info besturing
