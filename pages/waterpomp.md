@@ -20,6 +20,7 @@ title: waterpomp
 ### druk regelbaar tbv sproeistraal
 ### Tijdschakelaar
 ### 4 sproeiers voor 2,5 diameter
+### spreoeier moet werken bij weinig druk
 ### filter €29,-
 ## Niet nodig:
 ### Tegen droogloop, nietnodig, kans bijzonder klein
