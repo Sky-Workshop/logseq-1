@@ -4,6 +4,7 @@ title: waterpomp
 
 ## Waarom geen regenton?
 ## https://www.waterpompshop.nl/el-garden-800-beregeningspomp
+##
 ## Aanzuigslang:
 ## Programmeren
 ## Sproeiers
@@ -12,4 +13,4 @@ title: waterpomp
 ### Tegen droogloop
 ### 2 sproeiers
 ### Tijdschakelaar
-###
+## Info
