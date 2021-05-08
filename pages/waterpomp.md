@@ -13,6 +13,7 @@ title: waterpomp
 ## Sproeiers
 ## slang / leiding naar sproeiers
 ## Eisen:
+### pomp
 ### 2 sproeiers
 ### Tijdschakelaar
 ### filter €29,-
