@@ -10,7 +10,7 @@ title: waterpomp
 - https://www.waterpompshop.nl/elektronisch-controle-systeem met daarachter een waterschakelaar die op afstand te bedienen is.
 - schakelaar van de pomp zelf
 ## https://www.lidl-shop.nl/p/gude-tuinpomp-jg-3100/p100001662
-##
+## https://www.lidl-shop.nl/p/parkside-tuinpomp/p100320503
 ## Aanzuigslang:
 ## Programmeren
 ## Sproeiers
