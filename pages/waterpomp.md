@@ -19,6 +19,7 @@ title: waterpomp
 ## Niet nodig:
 ### Tegen droogloop, nietnodig, kans bijzonder klein
 ### afstand bediening
+### water
 ## Info besturing
 ### **Toerental regelen**
 
