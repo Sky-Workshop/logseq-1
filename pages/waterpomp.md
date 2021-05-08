@@ -17,6 +17,7 @@ title: waterpomp
 ## Eisen:
 ### 10x2,5 m
 ### pomp
+### druk regelbaar tbv sproeistraal
 ### Tijdschakelaar
 ### 4 sproeiers voor 2,5 diameter
 ### filter €29,-
