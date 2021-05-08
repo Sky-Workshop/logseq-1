@@ -13,6 +13,7 @@ title: waterpomp
 ### Tegen droogloop, nietnodig, kans bijzonder klein
 ### 2 sproeiers
 ### Tijdschakelaar
+### filter €29,-
 ## Info besturing
 ### **Toerental regelen**
 
