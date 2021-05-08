@@ -10,5 +10,5 @@ title: waterpomp
 ## Eisen:
 ### Tegen droogloop
 ### 2 sproeiers
-### tijdschakelaar
+### Tijdschakelaar
 ###
