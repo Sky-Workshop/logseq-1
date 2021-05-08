@@ -13,12 +13,12 @@ title: waterpomp
 ## Sproeiers
 ## slang / leiding naar sproeiers
 ## Eisen:
-### Tegen droogloop, nietnodig, kans bijzonder klein
 ### 2 sproeiers
 ### Tijdschakelaar
 ### filter €29,-
 ## Niet nodig:
-###
+### Tegen droogloop, nietnodig, kans bijzonder klein
+### afstand bediening
 ## Info besturing
 ### **Toerental regelen**
 
