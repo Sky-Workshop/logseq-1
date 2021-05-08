@@ -15,7 +15,7 @@ title: waterpomp
 ## Eisen:
 ### pomp
 ### Tijdschakelaar
-### 2 sproeiers
+### 4 sproeiers voor 2,5 diameter
 ### filter €29,-
 ## Niet nodig:
 ### Tegen droogloop, nietnodig, kans bijzonder klein
