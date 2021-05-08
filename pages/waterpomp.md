@@ -15,6 +15,7 @@ title: waterpomp
 ## Sproeiers
 ## slang / leiding naar sproeiers
 ## Eisen:
+### 10x2,5 m
 ### pomp
 ### Tijdschakelaar
 ### 4 sproeiers voor 2,5 diameter
