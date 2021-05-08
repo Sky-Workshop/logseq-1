@@ -17,6 +17,8 @@ title: waterpomp
 ### 2 sproeiers
 ### Tijdschakelaar
 ### filter €29,-
+## Niet nodig:
+###
 ## Info besturing
 ### **Toerental regelen**
 
