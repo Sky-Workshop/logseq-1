@@ -7,4 +7,8 @@ title: waterpomp
 ## Programmeren
 ## Sproeiers
 ## slang / leiding naar sproeiers
-##
+## Eisen:
+### Tegen droogloop
+### 2 sproeiers
+### tijdschakelaar
+###
