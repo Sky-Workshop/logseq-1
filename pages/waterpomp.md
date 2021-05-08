@@ -6,6 +6,8 @@ title: waterpomp
 ## https://www.waterpompshop.nl/el-garden-800-beregeningspomp
 ## bediening:
 - https://www.waterpompshop.nl/elektronisch-controle-systeem met daarachter een waterschakelaar die op afstand te bedienen is.
+- schakelaar van de pomp zelf
+##
 ## Aanzuigslang:
 ## Programmeren
 ## Sproeiers
